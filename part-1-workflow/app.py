@@ -82,6 +82,8 @@ CSS = """
   .pipeline-step span { color: #A1A1AA; font-size: 0.85rem; }
   .footer-note { color: #71717A; font-size: 0.8rem; margin-top: 2rem; text-align: center; }
   #MainMenu { visibility: hidden; }
+  footer { visibility: hidden; }
+  .stApp { background-color: #0E0E10; }
 </style>
 """
 
