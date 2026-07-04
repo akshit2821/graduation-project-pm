@@ -44,6 +44,9 @@ CSS = """
     margin-top: 1rem;
   }
   .tag { font-size: 0.75rem; color: #71717A; }
+  #MainMenu { visibility: hidden; }
+  footer { visibility: hidden; }
+  .stApp { background-color: #0E0E10; }
 </style>
 """
 
@@ -85,7 +88,6 @@ def main() -> None:
             placeholder="e.g. Friday 6pm, tired, only playing my old indie playlist…",
         )
 
-    use_groq = st.checkbox("Use Groq AI (requires API key)", value=True, help="AI-powered responses using Groq. Uncheck to use cached sample responses.")
     if st.button("Break the loop", type="primary", use_container_width=True):
         if not context.strip() and not persona:
             st.warning("Describe your listening moment or pick a persona.")
@@ -95,7 +97,7 @@ def main() -> None:
                     result = generate_coach_response(
                         context,
                         persona_id=persona or None,
-                        force_api=use_groq,
+                        force_api=True,
                     )
                     st.session_state["loopbreak_result"] = result
                 except Exception as e:
@@ -103,9 +105,6 @@ def main() -> None:
 
     result = st.session_state.get("loopbreak_result")
     if result:
-        src = result.get("source", "")
-        st.caption(f"Response via {src.replace('_', ' ')}")
-
         st.markdown("### Why you're looping")
         st.markdown(f'<div class="diagnosis">{result["why_looping"]}</div>', unsafe_allow_html=True)
 
