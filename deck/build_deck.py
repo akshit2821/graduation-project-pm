@@ -40,38 +40,51 @@ class DeckPDF(FPDF):
     def __init__(self) -> None:
         super().__init__(orientation="L", unit="mm", format="A4")
         self.set_auto_page_break(auto=False)
-        self.margin = 18
+        self.margin = 20
         self.content_w = 297 - 2 * self.margin
 
     def slide_bg(self) -> None:
         self.set_fill_color(*BG)
         self.rect(0, 0, 297, 210, style="F")
+        # Add subtle accent bar at top
+        self.set_fill_color(*ACCENT)
+        self.rect(0, 0, 297, 3, style="F")
 
     def slide_title(self, title: str) -> None:
         self.set_text_color(*ACCENT)
-        self.set_font("Helvetica", "B", 22)
-        self.multi_cell(self.content_w, 12, title, align="L")
-        self.ln(4)
+        self.set_font("Helvetica", "B", 28)
+        self.multi_cell(self.content_w, 14, title, align="L")
+        self.ln(8)
+        # Add divider line
+        self.set_draw_color(*ACCENT)
+        self.set_line_width(0.5)
+        self.line(self.margin, self.get_y(), self.margin + 80, self.get_y())
+        self.ln(6)
 
     def body(self, text: str, size: int = 16) -> None:
         self.set_text_color(*TEXT)
         self.set_font("Helvetica", "", size)
-        self.multi_cell(self.content_w, 8, text, align="L")
+        self.multi_cell(self.content_w, 9, text, align="L")
 
     def bullet(self, text: str) -> None:
         self.set_text_color(*TEXT)
-        self.set_font("Helvetica", "", 15)
-        self.multi_cell(self.content_w, 7, f"  -  {text}", align="L")
+        self.set_font("Helvetica", "", 16)
+        self.set_fill_color(*ACCENT)
+        self.circle(self.margin + 2, self.get_y() + 3, 1.5, style="F")
+        self.set_x(self.margin + 8)
+        self.multi_cell(self.content_w - 8, 8, text, align="L")
+        self.ln(3)
 
     def muted(self, text: str) -> None:
         self.set_text_color(*MUTED)
-        self.set_font("Helvetica", "I", 13)
-        self.multi_cell(self.content_w, 6, text, align="L")
+        self.set_font("Helvetica", "I", 14)
+        self.multi_cell(self.content_w, 7, text, align="L")
 
     def accent_line(self, text: str) -> None:
         self.set_text_color(*HIGHLIGHT)
-        self.set_font("Helvetica", "B", 17)
-        self.multi_cell(self.content_w, 8, text, align="L")
+        self.set_font("Helvetica", "B", 18)
+        self.multi_cell(self.content_w, 9, text, align="L")
+        self.ln(3)
 
 
 def build() -> Path:
