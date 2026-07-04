@@ -75,6 +75,20 @@ class DeckPDF(FPDF):
         self.multi_cell(self.content_w - 8, 8, text, align="L")
         self.ln(3)
 
+    def link_bullet(self, text: str, url: str) -> None:
+        self.set_text_color(*HIGHLIGHT)
+        self.set_font("Helvetica", "B", 16)
+        self.set_fill_color(*ACCENT)
+        self.circle(self.margin + 2, self.get_y() + 3, 1.5, style="F")
+        self.set_x(self.margin + 8)
+        self.multi_cell(self.content_w - 8, 8, text, align="L")
+        self.ln(2)
+        self.set_text_color(*MUTED)
+        self.set_font("Helvetica", "", 13)
+        self.set_x(self.margin + 8)
+        self.multi_cell(self.content_w - 8, 6, url, align="L")
+        self.ln(3)
+
     def muted(self, text: str) -> None:
         self.set_text_color(*MUTED)
         self.set_font("Helvetica", "I", 14)
@@ -118,6 +132,16 @@ def build() -> Path:
                 "Google Play (87%) | Reddit | Community forums | Social media",
                 "Pipeline: Collect -> Normalize -> AI theme classify -> Insights dashboard",
                 f"Review Discovery Engine: {s['workflow_url']}",
+            ],
+        ),
+        (
+            "Review Discovery Engine workflow: from raw feedback to actionable insights",
+            [
+                "STEP 1: Collect multi-source feedback (Play Store, App Store, Reddit, Forums, Social)",
+                "STEP 2: Normalize and dedupe into single corpus (English-only, remove emoji)",
+                "STEP 3: AI theme classification using Groq (llama-3.1-8b-instant) with keyword fallback",
+                "STEP 4: Generate theme map, quote bank, and research answers for 6 key questions",
+                "STEP 5: Deploy Streamlit dashboard for public access and mentor review",
             ],
         ),
         (
@@ -171,15 +195,7 @@ def build() -> Path:
                 "Before: open app -> same playlist -> passive play",
                 "After: describe moment -> why looping -> pick a path -> intentional action",
                 "AI unlocks: intent, moment context, reasoning aloud, strategy not just tracks",
-            ],
-        ),
-        (
-            "Success metrics: discovery sessions, new artists, D7 retention",
-            [
-                "Primary: discovery session rate (% sessions with play outside top 3 playlists)",
-                "Secondary: new artist listen rate | loop-break rate at transition moments",
-                "Next experiment: A/B coach at 6pm vs control Home for segment",
-                "Thank you | Workflow + MVP links on prior slides",
+                "Success metrics: discovery session rate, new artist listens, D7 retention",
             ],
         ),
     ]
