@@ -10,7 +10,7 @@ from fpdf import FPDF
 
 PROJECT = Path(__file__).resolve().parents[1]
 DECK = PROJECT / "deck"
-OUT = DECK / "NL Spotify.pdf"
+OUT = DECK / "Spotify.pdf"
 
 # Colour-blind-safe palette (IBM Carbon-inspired blues/oranges)
 BG = (15, 15, 20)
