@@ -1,0 +1,35 @@
+{
+  "status": "pass",
+  "timestamp": "2026-06-20T11:11:26.504760+00:00",
+  "parts": {
+    "part0": {
+      "ok": true,
+      "summary": "Next: Part 1 \u2014 multi-source collection (see docs/DATA_SOURCES.md)"
+    },
+    "part1": {
+      "ok": true,
+      "summary": "Part 1 PASS -> artifacts/part1_checkpoint.json"
+    },
+    "part2": {
+      "ok": true,
+      "summary": "  Checkpoint: artifacts\\part2_checkpoint.json"
+    }
+  },
+  "checkpoints": {
+    "part0": "pass",
+    "part1": "pass",
+    "part2": "pass"
+  },
+  "pipeline_ready_for_part3": true,
+  "summary": {
+    "product": "Spotify",
+    "feedback_count": 629,
+    "top3_themes": [
+      "discovery_friction",
+      "pricing_ads",
+      "repeat_listening"
+    ],
+    "interviews": 6,
+    "themes_validated": 7
+  }
+}

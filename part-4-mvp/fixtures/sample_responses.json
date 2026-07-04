@@ -1,0 +1,90 @@
+[
+  {
+    "persona_id": "post_work",
+    "why_looping": "After work your brain is tired — opening the same 2022 playlist avoids the effort of choosing from thousands of saves.",
+    "discovery_paths": [
+      {
+        "title": "5-minute mood reset",
+        "description": "Pick one energy level up or down from your comfort playlist — use Spotify's Daylist or a single-song seed radio, not Home scroll.",
+        "action_tag": "mood_shift"
+      },
+      {
+        "title": "Friend signal",
+        "description": "Check a close friend's public playlist or Blend — social proof lowers decision fatigue.",
+        "action_tag": "social"
+      },
+      {
+        "title": "Forgotten gem",
+        "description": "Sort Liked Songs by oldest added; play 3 tracks you saved but haven't heard in 6+ months.",
+        "action_tag": "forgotten_save"
+      }
+    ],
+    "recommended_action": "Open Liked Songs sorted by 'Recently added' in reverse and play 3 tracks from 2+ years ago — low risk, still yours."
+  },
+  {
+    "persona_id": "commute",
+    "why_looping": "On commute autopilot you want zero decisions — familiar playlists win over Discover Weekly that might miss your mood.",
+    "discovery_paths": [
+      {
+        "title": "Commute micro-challenge",
+        "description": "One new artist per trip: start radio from last week's most-played track, skip until one unfamiliar song lands.",
+        "action_tag": "new_artist"
+      },
+      {
+        "title": "Podcast-to-music bridge",
+        "description": "If you listened to podcasts earlier, switch with a playlist tagged same energy as your wind-down mood.",
+        "action_tag": "mood_shift"
+      },
+      {
+        "title": "Queue one surprise",
+        "description": "Before you leave, add exactly one song from Release Radar to the top of queue — rest stays comfort.",
+        "action_tag": "new_artist"
+      }
+    ],
+    "recommended_action": "Queue one Release Radar track before you start driving — keeps comfort but breaks the loop once."
+  },
+  {
+    "persona_id": "library_overwhelm",
+    "why_looping": "With 1k+ liked songs, browsing feels like work — replaying ten favorites is faster than exploring the graveyard.",
+    "discovery_paths": [
+      {
+        "title": "Random forgotten 10",
+        "description": "Use search filters or scroll to a random year in Liked Songs; commit to 10 tracks only.",
+        "action_tag": "forgotten_save"
+      },
+      {
+        "title": "Shrink the choice",
+        "description": "Create a temporary 20-song 'this week' list from saves you haven't played in 90 days.",
+        "action_tag": "forgotten_save"
+      },
+      {
+        "title": "Ask a friend",
+        "description": "Message one friend: 'What's one song you'd add to my Tuesday playlist?' — external pick beats algorithm when library is huge.",
+        "action_tag": "social"
+      }
+    ],
+    "recommended_action": "Filter Liked Songs to one old year and play 5 tracks — smaller set, same library."
+  },
+  {
+    "persona_id": "free_tier_ads",
+    "why_looping": "When ads hit while browsing, exploration feels punishing — you retreat to playlists you know won't trigger another interruption.",
+    "discovery_paths": [
+      {
+        "title": "Pre-plan before browse",
+        "description": "Decide one artist or playlist before opening app — avoids ad-heavy browse sessions.",
+        "action_tag": "mood_shift"
+      },
+      {
+        "title": "Downloaded discovery list",
+        "description": "When on Wi‑Fi, save 5 new tracks offline during premium trial or ad-free window.",
+        "action_tag": "new_artist"
+      },
+      {
+        "title": "Social swap",
+        "description": "Trade playlists with a friend offline — no algorithm browse needed.",
+        "action_tag": "social"
+      }
+    ],
+    "recommended_action": "Pick one artist tonight before opening Spotify — skip Home browse entirely to avoid ad-triggered fallback."
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "_comment": "Update URLs after Streamlit Cloud deploy. Test in incognito before 6 Jul 2026.",
+  "product": "Spotify",
+  "deck_filename": "NL Spotify.pdf",
+  "deadline_ist": "2026-07-06T15:59:00+05:30",
+  "workflow_url": "REPLACE_AFTER_DEPLOY",
+  "mvp_url": "REPLACE_AFTER_DEPLOY",
+  "unified_portal_url": "REPLACE_AFTER_DEPLOY",
+  "deploy_notes": {
+    "unified_entrypoint": "Home.py",
+    "workflow_only": "part-1-workflow/app.py",
+    "mvp_only": "part-4-mvp/app.py",
+    "streamlit_secrets_optional": ["LLM_API_KEY"]
+  }
+}

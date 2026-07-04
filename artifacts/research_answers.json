@@ -1,0 +1,371 @@
+{
+  "product": "Spotify",
+  "corpus_size": 629,
+  "coverage_pct": 100.0,
+  "target_segment": "Indian urban listeners aged 22\u201335 who listen 5+ hours/week, get \u226560% of listening from saved playlists or liked songs, and rarely engage with Discover Weekly meaningfully",
+  "questions": [
+    {
+      "id": "q1_discovery_struggle",
+      "question": "Why do users struggle to discover new music?",
+      "insight": "Discovery pain comes from choice overload, cluttered UI, and libraries too large to browse\u2014not only bad picks.",
+      "themes": [
+        {
+          "theme_id": "discovery_friction",
+          "label": "Hard to find new music",
+          "feedback_count": 306,
+          "share_pct": 48.6,
+          "avg_rating": 4.03
+        },
+        {
+          "theme_id": "library_clutter",
+          "label": "Library too large to explore",
+          "feedback_count": 15,
+          "share_pct": 2.4,
+          "avg_rating": 3.0
+        },
+        {
+          "theme_id": "ui_complexity",
+          "label": "UI blocks exploration",
+          "feedback_count": 13,
+          "share_pct": 2.1,
+          "avg_rating": 2.92
+        }
+      ],
+      "combined_post_count": 334,
+      "combined_share_pct": 53.1
+    },
+    {
+      "id": "q2_reco_frustration",
+      "question": "What are the most common frustrations with recommendations?",
+      "insight": "Recommendation frustration includes stale or irrelevant picks, but also ads and UI changes that interrupt exploration.",
+      "themes": [
+        {
+          "theme_id": "bad_recommendations",
+          "label": "Recommendation products miss",
+          "feedback_count": 25,
+          "share_pct": 4.0,
+          "avg_rating": 3.92
+        },
+        {
+          "theme_id": "pricing_ads",
+          "label": "Free tier limits exploration",
+          "feedback_count": 209,
+          "share_pct": 33.2,
+          "avg_rating": 2.34
+        },
+        {
+          "theme_id": "ui_complexity",
+          "label": "UI blocks exploration",
+          "feedback_count": 13,
+          "share_pct": 2.1,
+          "avg_rating": 2.92
+        }
+      ],
+      "combined_post_count": 247,
+      "combined_share_pct": 39.3
+    },
+    {
+      "id": "q3_listening_behavior",
+      "question": "What listening behaviors are users trying to achieve?",
+      "insight": "Users describe comfort loops, shared discovery with friends, and balancing podcasts vs music\u2014not always seeking novelty.",
+      "themes": [
+        {
+          "theme_id": "repeat_listening",
+          "label": "Same content on loop",
+          "feedback_count": 30,
+          "share_pct": 4.8,
+          "avg_rating": 2.09
+        },
+        {
+          "theme_id": "social_discovery",
+          "label": "Wants shared discovery",
+          "feedback_count": 7,
+          "share_pct": 1.1,
+          "avg_rating": 1.67
+        },
+        {
+          "theme_id": "podcast_vs_music",
+          "label": "Podcasts crowd out music",
+          "feedback_count": 24,
+          "share_pct": 3.8,
+          "avg_rating": 3.31
+        }
+      ],
+      "combined_post_count": 61,
+      "combined_share_pct": 9.7
+    },
+    {
+      "id": "q4_repeat_causes",
+      "question": "What causes users to repeatedly listen to the same content?",
+      "insight": "Repeat listening is driven by habit, ad friction when browsing, oversized libraries, and decision fatigue when choosing something new.",
+      "themes": [
+        {
+          "theme_id": "repeat_listening",
+          "label": "Same content on loop",
+          "feedback_count": 30,
+          "share_pct": 4.8,
+          "avg_rating": 2.09
+        },
+        {
+          "theme_id": "pricing_ads",
+          "label": "Free tier limits exploration",
+          "feedback_count": 209,
+          "share_pct": 33.2,
+          "avg_rating": 2.34
+        },
+        {
+          "theme_id": "library_clutter",
+          "label": "Library too large to explore",
+          "feedback_count": 15,
+          "share_pct": 2.4,
+          "avg_rating": 3.0
+        },
+        {
+          "theme_id": "discovery_friction",
+          "label": "Hard to find new music",
+          "feedback_count": 306,
+          "share_pct": 48.6,
+          "avg_rating": 4.03
+        }
+      ],
+      "combined_post_count": 560,
+      "combined_share_pct": 89.0
+    },
+    {
+      "id": "q5_segment_diff",
+      "question": "Which user segments experience different discovery challenges?",
+      "insight": "Patterns differ by feedback channel, star rating, and platform\u2014detractors cite ads and loops; promoters still report discovery friction.",
+      "segments": [
+        {
+          "segment_type": "channel",
+          "segment_label": "Google Play",
+          "count": 549,
+          "top_theme_id": "discovery_friction",
+          "top_theme_label": "Hard to find new music",
+          "top_theme_share_pct": 50.3
+        },
+        {
+          "segment_type": "platform",
+          "segment_label": "Android",
+          "count": 549,
+          "top_theme_id": "discovery_friction",
+          "top_theme_label": "Hard to find new music",
+          "top_theme_share_pct": 50.3
+        },
+        {
+          "segment_type": "rating_band",
+          "segment_id": "rating_promoters",
+          "segment_label": "High ratings (4\u20135 stars)",
+          "count": 282,
+          "top_theme_id": "discovery_friction",
+          "top_theme_label": "Hard to find new music",
+          "top_theme_share_pct": 72.7
+        },
+        {
+          "segment_type": "rating_band",
+          "segment_id": "rating_detractors",
+          "segment_label": "Low ratings (1\u20132 stars)",
+          "count": 212,
+          "top_theme_id": "pricing_ads",
+          "top_theme_label": "Free tier limits exploration",
+          "top_theme_share_pct": 57.1
+        },
+        {
+          "segment_type": "platform",
+          "segment_label": "Web",
+          "count": 80,
+          "top_theme_id": "discovery_friction",
+          "top_theme_label": "Hard to find new music",
+          "top_theme_share_pct": 37.5
+        },
+        {
+          "segment_type": "rating_band",
+          "segment_id": "rating_neutral",
+          "segment_label": "Mid ratings (3 stars)",
+          "count": 55,
+          "top_theme_id": "pricing_ads",
+          "top_theme_label": "Free tier limits exploration",
+          "top_theme_share_pct": 56.4
+        },
+        {
+          "segment_type": "channel",
+          "segment_label": "Reddit",
+          "count": 40,
+          "top_theme_id": "discovery_friction",
+          "top_theme_label": "Hard to find new music",
+          "top_theme_share_pct": 42.5
+        },
+        {
+          "segment_type": "channel",
+          "segment_label": "Community forums",
+          "count": 25,
+          "top_theme_id": "discovery_friction",
+          "top_theme_label": "Hard to find new music",
+          "top_theme_share_pct": 36.0
+        },
+        {
+          "segment_type": "channel",
+          "segment_label": "Social media",
+          "count": 15,
+          "top_theme_id": "discovery_friction",
+          "top_theme_label": "Hard to find new music",
+          "top_theme_share_pct": 26.7
+        }
+      ],
+      "target_segment": "Indian urban listeners aged 22\u201335 who listen 5+ hours/week, get \u226560% of listening from saved playlists or liked songs, and rarely engage with Discover Weekly meaningfully"
+    },
+    {
+      "id": "q6_unmet_needs",
+      "question": "What unmet needs emerge consistently across reviews?",
+      "insight": "Needs that appear across multiple channels are the strongest signals for product action.",
+      "top_needs": [
+        {
+          "theme_id": "discovery_friction",
+          "label": "Hard to find new music",
+          "feedback_count": 306,
+          "share_pct": 48.6,
+          "avg_rating": 4.03
+        },
+        {
+          "theme_id": "pricing_ads",
+          "label": "Free tier limits exploration",
+          "feedback_count": 209,
+          "share_pct": 33.2,
+          "avg_rating": 2.34
+        },
+        {
+          "theme_id": "repeat_listening",
+          "label": "Same content on loop",
+          "feedback_count": 30,
+          "share_pct": 4.8,
+          "avg_rating": 2.09
+        },
+        {
+          "theme_id": "bad_recommendations",
+          "label": "Recommendation products miss",
+          "feedback_count": 25,
+          "share_pct": 4.0,
+          "avg_rating": 3.92
+        },
+        {
+          "theme_id": "podcast_vs_music",
+          "label": "Podcasts crowd out music",
+          "feedback_count": 24,
+          "share_pct": 3.8,
+          "avg_rating": 3.31
+        },
+        {
+          "theme_id": "library_clutter",
+          "label": "Library too large to explore",
+          "feedback_count": 15,
+          "share_pct": 2.4,
+          "avg_rating": 3.0
+        },
+        {
+          "theme_id": "ui_complexity",
+          "label": "UI blocks exploration",
+          "feedback_count": 13,
+          "share_pct": 2.1,
+          "avg_rating": 2.92
+        },
+        {
+          "theme_id": "social_discovery",
+          "label": "Wants shared discovery",
+          "feedback_count": 7,
+          "share_pct": 1.1,
+          "avg_rating": 1.67
+        }
+      ],
+      "cross_source_needs": [
+        {
+          "theme_id": "discovery_friction",
+          "label": "Hard to find new music",
+          "feedback_count": 306,
+          "share_pct": 48.6,
+          "source_count": 4,
+          "sources": [
+            "Community forums",
+            "Google Play",
+            "Reddit",
+            "Social media"
+          ]
+        },
+        {
+          "theme_id": "pricing_ads",
+          "label": "Free tier limits exploration",
+          "feedback_count": 209,
+          "share_pct": 33.2,
+          "source_count": 4,
+          "sources": [
+            "Community forums",
+            "Google Play",
+            "Reddit",
+            "Social media"
+          ]
+        },
+        {
+          "theme_id": "repeat_listening",
+          "label": "Same content on loop",
+          "feedback_count": 30,
+          "share_pct": 4.8,
+          "source_count": 4,
+          "sources": [
+            "Community forums",
+            "Google Play",
+            "Reddit",
+            "Social media"
+          ]
+        },
+        {
+          "theme_id": "bad_recommendations",
+          "label": "Recommendation products miss",
+          "feedback_count": 25,
+          "share_pct": 4.0,
+          "source_count": 4,
+          "sources": [
+            "Community forums",
+            "Google Play",
+            "Reddit",
+            "Social media"
+          ]
+        },
+        {
+          "theme_id": "podcast_vs_music",
+          "label": "Podcasts crowd out music",
+          "feedback_count": 24,
+          "share_pct": 3.8,
+          "source_count": 3,
+          "sources": [
+            "Google Play",
+            "Reddit",
+            "Social media"
+          ]
+        },
+        {
+          "theme_id": "library_clutter",
+          "label": "Library too large to explore",
+          "feedback_count": 15,
+          "share_pct": 2.4,
+          "source_count": 3,
+          "sources": [
+            "Community forums",
+            "Google Play",
+            "Reddit"
+          ]
+        },
+        {
+          "theme_id": "social_discovery",
+          "label": "Wants shared discovery",
+          "feedback_count": 7,
+          "share_pct": 1.1,
+          "source_count": 3,
+          "sources": [
+            "Community forums",
+            "Google Play",
+            "Reddit"
+          ]
+        }
+      ]
+    }
+  ]
+}

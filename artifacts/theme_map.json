@@ -1,0 +1,154 @@
+{
+  "product": "Spotify",
+  "window": {
+    "start": "2026-02-20",
+    "end": "2026-06-19"
+  },
+  "feedback_count": 629,
+  "assigned_count": 629,
+  "coverage_pct": 100.0,
+  "themes": [
+    {
+      "id": "discovery_friction",
+      "label": "Hard to find new music",
+      "feedback_count": 306,
+      "share_pct": 48.6,
+      "avg_rating": 4.03,
+      "sample_feedback_ids": [
+        "5d27f42bc750e22a",
+        "de058fa78db1282d",
+        "2ee3526e10fca9b1"
+      ]
+    },
+    {
+      "id": "pricing_ads",
+      "label": "Free tier limits exploration",
+      "feedback_count": 209,
+      "share_pct": 33.2,
+      "avg_rating": 2.34,
+      "sample_feedback_ids": [
+        "ddaceea778364081",
+        "fdec86def271144c",
+        "00fc86470f36e261"
+      ]
+    },
+    {
+      "id": "repeat_listening",
+      "label": "Same content on loop",
+      "feedback_count": 30,
+      "share_pct": 4.8,
+      "avg_rating": 2.09,
+      "sample_feedback_ids": [
+        "3b5cec44881767c0",
+        "de7026eb17ddc38f",
+        "dae325025fac583a"
+      ]
+    },
+    {
+      "id": "bad_recommendations",
+      "label": "Recommendation products miss",
+      "feedback_count": 25,
+      "share_pct": 4.0,
+      "avg_rating": 3.92,
+      "sample_feedback_ids": [
+        "96dda5bee2a60f42",
+        "28a2bf230cd91cfe",
+        "76b4bb448238d0da"
+      ]
+    },
+    {
+      "id": "podcast_vs_music",
+      "label": "Podcasts crowd out music",
+      "feedback_count": 24,
+      "share_pct": 3.8,
+      "avg_rating": 3.31,
+      "sample_feedback_ids": [
+        "3b5417c3d42bbe15",
+        "d7eef832c37c951d",
+        "dd25c75e3b00bc4d"
+      ]
+    },
+    {
+      "id": "library_clutter",
+      "label": "Library too large to explore",
+      "feedback_count": 15,
+      "share_pct": 2.4,
+      "avg_rating": 3.0,
+      "sample_feedback_ids": [
+        "d5a9729dc99a6b27",
+        "acdc9dabc7f52453",
+        "0415d9df9f3ea6da"
+      ]
+    },
+    {
+      "id": "ui_complexity",
+      "label": "UI blocks exploration",
+      "feedback_count": 13,
+      "share_pct": 2.1,
+      "avg_rating": 2.92,
+      "sample_feedback_ids": [
+        "6eeadf7fc2301519",
+        "088d13f97fabc223",
+        "88900091549db3c9"
+      ]
+    },
+    {
+      "id": "social_discovery",
+      "label": "Wants shared discovery",
+      "feedback_count": 7,
+      "share_pct": 1.1,
+      "avg_rating": 1.67,
+      "sample_feedback_ids": [
+        "c02137d1d1967211",
+        "17fbd8cc90d2ddcd",
+        "71e3ea1b53cb7d41"
+      ]
+    }
+  ],
+  "top3_theme_ids": [
+    "discovery_friction",
+    "pricing_ads",
+    "repeat_listening"
+  ],
+  "by_source": {
+    "forum": {
+      "count": 25,
+      "top_theme": "discovery_friction",
+      "top_theme_label": "Hard to find new music"
+    },
+    "play_store": {
+      "count": 549,
+      "top_theme": "discovery_friction",
+      "top_theme_label": "Hard to find new music"
+    },
+    "reddit": {
+      "count": 40,
+      "top_theme": "discovery_friction",
+      "top_theme_label": "Hard to find new music"
+    },
+    "social": {
+      "count": 15,
+      "top_theme": "discovery_friction",
+      "top_theme_label": "Hard to find new music"
+    }
+  },
+  "llm_provider": "keyword_fallback",
+  "llm_model": null,
+  "llm_sample": {
+    "total_reviews": 629,
+    "max_reviews": 400,
+    "min_reviews": 300,
+    "sampled": true,
+    "seed": 42,
+    "llm_review_count": 400,
+    "keyword_review_count": 229,
+    "strata": {
+      "5|android": 148,
+      "1|android": 100,
+      "3|web": 51,
+      "3|android": 35,
+      "2|android": 34,
+      "4|android": 32
+    }
+  }
+}

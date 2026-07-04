@@ -1,0 +1,57 @@
+{
+  "product_name": "Spotify",
+  "product_slug": "spotify",
+  "company_role": "Growth Team PM",
+  "strategic_goal": "Increase meaningful music discovery; reduce repetitive listening",
+  "deck_filename": "NL Spotify.pdf",
+  "target_segment": {
+    "description": "Indian urban listeners aged 22–35 who listen 5+ hours/week, get ≥60% of listening from saved playlists or liked songs, and rarely engage with Discover Weekly meaningfully",
+    "age_range": "22-35",
+    "geo": "India",
+    "screener_criteria": [
+      "Uses Spotify at least 5 hours per week",
+      "Most listening from saved playlists or liked songs",
+      "Opens Discover Weekly rarely or finds it irrelevant"
+    ]
+  },
+  "stores": {
+    "android": {
+      "package": "com.spotify.music",
+      "export_notes": "google-play-scraper or Play Console export"
+    },
+    "ios": {
+      "app_id": "324684580",
+      "country": "in",
+      "export_notes": "app-store-scraper country=in or App Store export"
+    }
+  },
+  "data_sources": {
+    "play_store": { "enabled": true, "target_rows": 800 },
+    "app_store": { "enabled": true, "target_rows": 400 },
+    "reddit": { "enabled": true, "target_rows": 50, "subreddits": ["spotify", "truespotify", "spotifyplaylists"] },
+    "forum": { "enabled": true, "target_rows": 30, "notes": "Spotify Community Discover board" },
+    "social": { "enabled": true, "target_rows": 20, "notes": "Manual Twitter/YouTube sample" }
+  },
+  "feedback_filters": {
+    "english_only": true,
+    "allow_emojis": false,
+    "min_english_ratio": 0.85
+  },
+  "theme_seed_ids": [
+    "discovery_friction",
+    "bad_recommendations",
+    "repeat_listening",
+    "library_clutter",
+    "ui_complexity",
+    "social_discovery",
+    "podcast_vs_music",
+    "pricing_ads"
+  ],
+  "llm_review_sample": {
+    "enabled": true,
+    "max_reviews": 400,
+    "min_reviews": 300
+  },
+  "mvp_working_title": "LoopBreak",
+  "submission_deadline_ist": "2026-07-06T15:59:00+05:30"
+}

@@ -1,0 +1,28 @@
+{
+  "rows_in": 880,
+  "dropped_missing_text": 0,
+  "dropped_emoji": 135,
+  "dropped_non_english": 103,
+  "dropped_empty_after_normalize": 0,
+  "dropped_duplicate": 13,
+  "rows_out": 629,
+  "source_files": [
+    "data\\raw\\spotify\\forum\\forums_raw.csv",
+    "data\\raw\\spotify\\play\\play_reviews.csv",
+    "data\\raw\\spotify\\reddit\\reddit_posts.csv",
+    "data\\raw\\spotify\\social\\social_raw.csv"
+  ],
+  "source_breakdown_in": {
+    "play_store": 800,
+    "reddit": 40,
+    "forum": 25,
+    "social": 15
+  },
+  "date_min": "2026-02-20",
+  "date_max": "2026-06-19",
+  "text_filters": {
+    "english_only": true,
+    "allow_emojis": false,
+    "min_english_ratio": 0.85
+  }
+}

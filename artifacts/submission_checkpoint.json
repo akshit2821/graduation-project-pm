@@ -1,0 +1,25 @@
+{
+  "status": "pass",
+  "submission_ready": false,
+  "timestamp": "2026-07-04T13:00:34.656875+00:00",
+  "deadline_ist": "2026-07-06T15:59:00+05:30",
+  "deck": "deck\\NL Spotify.pdf",
+  "deck_size_kb": 7.6,
+  "urls": {
+    "workflow_url": "REPLACE_AFTER_DEPLOY",
+    "mvp_url": "REPLACE_AFTER_DEPLOY",
+    "unified_portal_url": "REPLACE_AFTER_DEPLOY"
+  },
+  "failures": [],
+  "warnings": [
+    "workflow_url not set \u2014 deploy Streamlit Cloud and update config/submission.json",
+    "mvp_url not set \u2014 deploy Streamlit Cloud and update config/submission.json"
+  ],
+  "submit_checklist": [
+    "Update URLs in config/submission.json after deploy",
+    "Re-run python deck/build_deck.py with live URLs",
+    "Test links in incognito",
+    "Export/upload NL Spotify.pdf",
+    "Submit before 6 Jul 2026 3:59 PM IST"
+  ]
+}

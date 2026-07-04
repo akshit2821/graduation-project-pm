@@ -1,0 +1,36 @@
+{
+  "status": "pass",
+  "timestamp": "2026-07-04T13:00:34.305476+00:00",
+  "parts": {
+    "part0": {
+      "ok": true,
+      "summary": "Next: Part 1 \u2014 multi-source collection (see docs/DATA_SOURCES.md)"
+    },
+    "part1": {
+      "ok": true,
+      "summary": "Part 1 PASS -> artifacts/part1_checkpoint.json"
+    },
+    "part2": {
+      "ok": true,
+      "summary": "  Checkpoint: artifacts\\part2_checkpoint.json"
+    },
+    "part3": {
+      "ok": true,
+      "summary": "  Checkpoint: artifacts\\part3_checkpoint.json"
+    },
+    "part4": {
+      "ok": true,
+      "summary": "  Checkpoint: artifacts\\part4_checkpoint.json"
+    }
+  },
+  "submission_ready_except": [],
+  "remaining_deliverables": [
+    "Deploy part-1-workflow/app.py (workflow URL)",
+    "Deploy part-4-mvp/app.py (MVP URL)",
+    "10-slide deck NL Spotify.pdf"
+  ],
+  "summary": {
+    "mvp": "LoopBreak",
+    "problem_id": "transition_moment_coach"
+  }
+}

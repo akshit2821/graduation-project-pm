@@ -1,0 +1,14 @@
+.venv/
+.env
+*.pem
+credentials.json
+token.json
+__pycache__/
+*.pyc
+
+# Streamlit secrets (never commit)
+.streamlit/secrets.toml
+
+# Optional: local venv / IDE
+.idea/
+.vscode/

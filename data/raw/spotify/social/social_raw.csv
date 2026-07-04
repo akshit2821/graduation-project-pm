@@ -1,0 +1,16 @@
+source,platform,date,rating,title,text,upvotes,url
+social,web,2026-03-26,,Podcasts dominate,Home feed pushes podcasts when I want music discovery.,175,https://example.com/social/0
+social,web,2026-05-20,,Search useless,Search only shows artists I already know.,106,https://example.com/social/1
+social,web,2026-03-15,,Skip limit,Hit skip limit and just replay old favorites.,89,https://example.com/social/2
+social,web,2026-06-09,,Same playlist loop,I only listen to my 2019 playlist on repeat.,195,https://example.com/social/3
+social,web,2026-06-01,,Search useless,Search only shows artists I already know.,152,https://example.com/social/4
+social,web,2026-05-21,,Same playlist loop,I only listen to my 2019 playlist on repeat.,45,https://example.com/social/5
+social,web,2026-06-11,,Skip limit,Hit skip limit and just replay old favorites.,133,https://example.com/social/6
+social,web,2026-04-12,,Skip limit,Hit skip limit and just replay old favorites.,51,https://example.com/social/7
+social,web,2026-04-22,,Same playlist loop,I only listen to my 2019 playlist on repeat.,178,https://example.com/social/8
+social,web,2026-04-06,,Home cluttered,"Home screen is podcasts and shortcuts, hard to find new music.",76,https://example.com/social/9
+social,web,2026-02-25,,Podcasts dominate,Home feed pushes podcasts when I want music discovery.,90,https://example.com/social/10
+social,web,2026-06-05,,Comfort listening,"After work I always play familiar songs, never explore.",8,https://example.com/social/11
+social,web,2026-03-17,,Same playlist loop,I only listen to my 2019 playlist on repeat.,138,https://example.com/social/12
+social,web,2026-06-09,,Daily mix repeat,Daily Mix plays the same 20 songs every day.,195,https://example.com/social/13
+social,web,2026-04-13,,Ads break flow,Free tier ads make me skip back to old playlists.,119,https://example.com/social/14

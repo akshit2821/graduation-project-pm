@@ -1,0 +1,17 @@
+{
+  "status": "pass",
+  "timestamp": "2026-07-04T13:00:33.921792+00:00",
+  "product": "Spotify",
+  "product_slug": "spotify",
+  "segment_locked": true,
+  "theme_count": 8,
+  "groq_status": "deterministic_mode",
+  "checks": {
+    "files_present": true,
+    "config_valid": true,
+    "gitignore_secrets": true,
+    "no_committed_secrets": true
+  },
+  "failures": [],
+  "next": "Part 1A \u2014 scrape Play Store (part-1-ingest/scrape_play.py)"
+}

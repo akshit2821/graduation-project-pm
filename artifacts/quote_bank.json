@@ -1,0 +1,114 @@
+{
+  "quotes": [
+    {
+      "theme_id": "discovery_friction",
+      "theme_label": "Hard to find new music",
+      "source": "play_store",
+      "source_label": "Google Play",
+      "text": "New widget is terrible and they force it on you.",
+      "rating": 1
+    },
+    {
+      "theme_id": "discovery_friction",
+      "theme_label": "Hard to find new music",
+      "source": "play_store",
+      "source_label": "Google Play",
+      "text": "getting worse after every update , somehow",
+      "rating": 1
+    },
+    {
+      "theme_id": "pricing_ads",
+      "theme_label": "Free tier limits exploration",
+      "source": "play_store",
+      "source_label": "Google Play",
+      "text": "Ad after ad after ad",
+      "rating": 1
+    },
+    {
+      "theme_id": "pricing_ads",
+      "theme_label": "Free tier limits exploration",
+      "source": "play_store",
+      "source_label": "Google Play",
+      "text": "\"30 minutes of ad free music\" after one 1:30 long song I get 4 ads. False advertising sucks. Like, the mobile version doesn't let you",
+      "rating": 1
+    },
+    {
+      "theme_id": "repeat_listening",
+      "theme_label": "Same content on loop",
+      "source": "play_store",
+      "source_label": "Google Play",
+      "text": "Switching soon. Getting rid of \"liked songs\" playlist was the breaking point. They keep changing to the \"improved\" UI, give people a choice as to",
+      "rating": 1
+    },
+    {
+      "theme_id": "repeat_listening",
+      "theme_label": "Same content on loop",
+      "source": "play_store",
+      "source_label": "Google Play",
+      "text": "I pay for Spotify. When it gets updated I loose liked songs. It's song types like \"rock\" or country or something like that is completely",
+      "rating": 1
+    }
+  ],
+  "research_quotes": [
+    {
+      "research_question_id": "q1_discovery_struggle",
+      "research_question": "Why do users struggle to discover new music?",
+      "theme_id": "discovery_friction",
+      "theme_label": "Hard to find new music",
+      "source": "play_store",
+      "source_label": "Google Play",
+      "text": "New widget is terrible and they force it on you.",
+      "rating": 1
+    },
+    {
+      "research_question_id": "q2_reco_frustration",
+      "research_question": "What are the most common frustrations with recommendations?",
+      "theme_id": "bad_recommendations",
+      "theme_label": "Recommendation products miss",
+      "source": "play_store",
+      "source_label": "Google Play",
+      "text": "Spotify has increased their prices too much. Request to bring back the price. I had switched to apple music. it provides affordable listening experience. with lossless music. but",
+      "rating": 1
+    },
+    {
+      "research_question_id": "q3_listening_behavior",
+      "research_question": "What listening behaviors are users trying to achieve?",
+      "theme_id": "repeat_listening",
+      "theme_label": "Same content on loop",
+      "source": "play_store",
+      "source_label": "Google Play",
+      "text": "Switching soon. Getting rid of \"liked songs\" playlist was the breaking point. They keep changing to the \"improved\" UI, give people a choice as to what UI they",
+      "rating": 1
+    },
+    {
+      "research_question_id": "q4_repeat_causes",
+      "research_question": "What causes users to repeatedly listen to the same content?",
+      "theme_id": "repeat_listening",
+      "theme_label": "Same content on loop",
+      "source": "play_store",
+      "source_label": "Google Play",
+      "text": "I pay for Spotify. When it gets updated I loose liked songs. It's song types like \"rock\" or country or something like that is completely random for what",
+      "rating": 1
+    },
+    {
+      "research_question_id": "q5_segment_diff",
+      "research_question": "Which user segments experience different discovery challenges?",
+      "theme_id": "discovery_friction",
+      "theme_label": "Hard to find new music",
+      "source": "play_store",
+      "source_label": "Google Play",
+      "text": "getting worse after every update , somehow",
+      "rating": 1
+    },
+    {
+      "research_question_id": "q6_unmet_needs",
+      "research_question": "What unmet needs emerge consistently across reviews?",
+      "theme_id": "discovery_friction",
+      "theme_label": "Hard to find new music",
+      "source": "play_store",
+      "source_label": "Google Play",
+      "text": "the new widget crashes all the time. it'll just have a spinning logo and not open the app",
+      "rating": 1
+    }
+  ]
+}

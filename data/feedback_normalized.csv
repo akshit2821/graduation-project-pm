@@ -1,0 +1,630 @@
+feedback_id,source,platform,date,rating,title,text,upvotes,url,language
+96dda5bee2a60f42,forum,web,2026-04-11,,Algorithm,How do I reset recommendations? Stuck in a loop.,69,https://example.com/forum/0,en
+523e917a034e4d71,forum,web,2026-05-11,,New music,Cannot find new releases that match my taste.,13,https://example.com/forum/1,en
+1eff282180ff6fb2,forum,web,2026-03-24,,Want friend picks,Wish I could see what close friends discover weekly.,74,https://example.com/forum/2,en
+c02137d1d1967211,forum,web,2026-04-29,,Blend dead,Blend with friends never updates with new artists.,189,https://example.com/forum/3,en
+28a2bf230cd91cfe,forum,web,2026-06-10,,Daily mix repeat,Daily Mix plays the same 20 songs every day.,101,https://example.com/forum/4,en
+d5a9729dc99a6b27,forum,web,2026-05-08,,Too many liked songs,I have 2000 liked songs and cannot browse them.,143,https://example.com/forum/5,en
+76b4bb448238d0da,forum,web,2026-05-03,,Daily mix repeat,Daily Mix plays the same 20 songs every day.,35,https://example.com/forum/6,en
+7f4d1ff9d5e2c20c,forum,web,2026-05-05,,Daily mix repeat,Daily Mix plays the same 20 songs every day.,18,https://example.com/forum/7,en
+ddaceea778364081,forum,web,2026-05-15,,Skip limit,Hit skip limit and just replay old favorites.,137,https://example.com/forum/8,en
+cbd68a337eb5bbbc,forum,web,2026-04-30,,Discover Weekly miss,Discover Weekly keeps recommending the same indie artists.,144,https://example.com/forum/9,en
+5d27f42bc750e22a,forum,web,2026-05-04,,Want friend picks,Wish I could see what close friends discover weekly.,96,https://example.com/forum/10,en
+1e1f7dfd2ad96aac,forum,web,2026-04-08,,Saved music graveyard,My library is huge but I play the same 10 tracks.,109,https://example.com/forum/11,en
+de058fa78db1282d,forum,web,2026-04-24,,Comfort listening,"After work I always play familiar songs, never explore.",189,https://example.com/forum/12,en
+2ee3526e10fca9b1,forum,web,2026-04-27,,Comfort listening,"After work I always play familiar songs, never explore.",178,https://example.com/forum/13,en
+351230ae5dd26347,forum,web,2026-03-11,,Comfort listening,"After work I always play familiar songs, never explore.",137,https://example.com/forum/14,en
+87d5f5739dbf9560,forum,web,2026-05-25,,Home cluttered,"Home screen is podcasts and shortcuts, hard to find new music.",124,https://example.com/forum/15,en
+9335eb69116bf578,forum,web,2026-04-13,,Search useless,Search only shows artists I already know.,127,https://example.com/forum/16,en
+39458217e261491f,forum,web,2026-06-11,,Discover Weekly miss,Discover Weekly keeps recommending the same indie artists.,192,https://example.com/forum/17,en
+ecff0fe9636a1e4c,forum,web,2026-03-25,,Daily mix repeat,Daily Mix plays the same 20 songs every day.,10,https://example.com/forum/18,en
+fdec86def271144c,forum,web,2026-03-06,,Ads break flow,Free tier ads make me skip back to old playlists.,173,https://example.com/forum/19,en
+83c1359b47d94fdc,forum,web,2026-03-03,,Too many liked songs,I have 2000 liked songs and cannot browse them.,136,https://example.com/forum/20,en
+6c14422ae3648f60,forum,web,2026-04-07,,Want friend picks,Wish I could see what close friends discover weekly.,130,https://example.com/forum/21,en
+acdc9dabc7f52453,forum,web,2026-04-12,,Too many liked songs,I have 2000 liked songs and cannot browse them.,100,https://example.com/forum/22,en
+72c85c449abd0971,forum,web,2026-03-01,,Saved music graveyard,My library is huge but I play the same 10 tracks.,41,https://example.com/forum/23,en
+c4873c01f44c6249,forum,web,2026-06-02,,Same playlist loop,I only listen to my 2019 playlist on repeat.,147,https://example.com/forum/24,en
+6eeadf7fc2301519,play_store,android,2026-06-19,5.0,,"Ik eis dat per direct iemand mijn hele digitale leven bevriest want ik geraak op geen enkele manier nog in mijn account. Al mijn toestellen zijn vernietigd, ik heb geen enkel contact met de buitenwereld en ik heb nog 2 euro. Geen internet, geen veilige plaats en ik ben bij borre bijna in een antibiotica allergie gesneuveld",0,,en
+60cc427facc9d0c1,play_store,android,2026-06-19,5.0,,Love it,0,,en
+0d0be787b73cd323,play_store,android,2026-06-19,1.0,,I hate this app,0,,en
+00fc86470f36e261,play_store,android,2026-06-19,2.0,,it forces to take subscription,0,,en
+d6bb943d33d29a33,play_store,android,2026-06-19,1.0,,this app without subscription not play one many more disgusting,0,,en
+3b5417c3d42bbe15,play_store,android,2026-06-19,5.0,,"I only use it to listen to podcasts. have done so for years and have had a great experience. lately, with android 17, the app stopped working. get better engineers instead of AI bloat!",0,,en
+a3a44f2f062cc786,play_store,android,2026-06-19,2.0,,Can you make something like Spotify light? I mean just music without all the random sht. It also became superslow to load since athr last few months...,0,,en
+d69c9738019a1f40,play_store,android,2026-06-19,5.0,,Spotify is SOOO good,0,,en
+e637d75be80e2aba,play_store,android,2026-06-19,5.0,,best ever apps,0,,en
+0f48d33117622ba4,play_store,android,2026-06-19,5.0,,it is very nice,0,,en
+5976229019d7285d,play_store,android,2026-06-19,5.0,,It's so so so good but it's too vip man like leave me alone and I just wanna listen to music in peace,0,,en
+41e52326786028dd,play_store,android,2026-06-19,5.0,,"Spotify has quite recently added the ability to (un)filter playlists and radios so they aren't customized. I cannot express how important this is to me, personally, as this is a really fantastic way to discover and enjoy more music.",0,,en
+74d30931b14e50bb,play_store,android,2026-06-19,4.0,,no one star break and ads,0,,en
+b35d50a7046edb96,play_store,android,2026-06-19,5.0,,Just feel it,0,,en
+9f356afcf383179b,play_store,android,2026-06-19,5.0,,used Spotify daily for over 10 years now. couldn't live without it,0,,en
+9420f746410a156d,play_store,android,2026-06-19,2.0,,"please remove your ads ... it's all over all platforms it's annoying...we know, we get it , we have Spotify in our phone ...it's too much",1,,en
+6618771c798a7213,play_store,android,2026-06-19,3.0,,"Spotify ialah aplikasi penstriman muzik yang mudah digunakan, mempunyai koleksi lagu yang besar dan cadangan muzik yang baik. Ia sesuai untuk pengguna yang gemar mendengar muzik setiap hari, tetapi versi percuma mengandungi iklan.",0,,en
+e1c3ec54c281bbf5,play_store,android,2026-06-19,1.0,,not download,0,,en
+bd2c6548d681c40e,play_store,android,2026-06-19,3.0,,terrible widget experience in android,1,,en
+0b813c4616ad56ce,play_store,android,2026-06-19,5.0,,superb app with lossless quality sounds phenomenal,0,,en
+20f22e21b74f6172,play_store,android,2026-06-19,1.0,,"If I am listening to a podcast series and I am on episode 38, when that finishes I want to listen to episode 39. Why do you play the most recent one? Or sometimes a totally different and unrelated podcast series? Why is it impossible to find things easily on Android Auto?",0,,en
+7cc5c5ac8bd02caf,play_store,android,2026-06-19,1.0,,too many ads,0,,en
+3ea4148f0a9193a3,play_store,android,2026-06-19,1.0,,"such a money hungry app, can't even do anything.",0,,en
+3a25e8af53ef239d,play_store,android,2026-06-19,4.0,,"The app is completely unusable without premium. It feels like Spotify is getting greedier by the day, essentially forcing users to purchase premium by restricting the most basic features. I'm tempted to pay to unlock premium features but that'd mean supporting their monopoly.",1,,en
+757ee9a7897fdb1b,play_store,android,2026-06-19,5.0,,it's good even though it has ads and limitations,0,,en
+8410359ce1d78a94,play_store,android,2026-06-19,3.0,,app keeps closing isn't an issue on my end that I'm aware of so not sure what's up.,0,,en
+5c51496747722065,play_store,android,2026-06-19,5.0,,Easy to use & enjoyable for me to keep tuning in to,0,,en
+568814249b80c6b9,play_store,android,2026-06-19,5.0,,very nice aplication for enjoy music,0,,en
+29faf4caf69798ab,play_store,android,2026-06-19,1.0,,Should've been good app but damn greedy just a bit more step to be pay to use,0,,en
+5beb205639c0944f,play_store,android,2026-06-19,1.0,,scammer I want to buy the premium and it wouldn't let me buy and end up with 0 money,0,,en
+06c7d08bf10611ec,play_store,android,2026-06-19,5.0,,It the best,0,,en
+3742a1b5458c9ea3,play_store,android,2026-06-19,1.0,,bruh i cant do anything without premium subscription,1,,en
+9e688d35ab091b31,play_store,android,2026-06-19,5.0,,"Good so far, well done, sporty music",0,,en
+e4ab9df757f04c7f,play_store,android,2026-06-19,3.0,,good but ads are intolerent and Raigbait all the time in a flow,0,,en
+8c68febb58978cdb,play_store,android,2026-06-19,5.0,,great real pogcast I have listened to in a long while,0,,en
+a95555ad640f05ce,play_store,android,2026-06-19,2.0,,the new update is making my app crash,0,,en
+0e6cfb4b036174b1,play_store,android,2026-06-19,5.0,,love it my favorite app,0,,en
+584f7d3250a708e5,play_store,android,2026-06-19,1.0,,"the customer service is a joke, takes forever to get to a person that can actually help solve the issue and even then they can't fix it.",0,,en
+ac2891399ddc3b98,play_store,android,2026-06-19,5.0,,the music quality is excellent,0,,en
+d3c03d52426896ce,play_store,android,2026-06-19,1.0,,new widget is trash... hardly works...,2,,en
+4072619c839a3d36,play_store,android,2026-06-19,5.0,,brilliant love it thanks,0,,en
+2a1f1585a920e31a,play_store,android,2026-06-19,1.0,,the amount of adds you put in between i am planning to uninstall this app,0,,en
+358e2b8535fd6742,play_store,android,2026-06-19,2.0,,"I was debited for individual premium this morning, and I wasn't granted the subscription I need refund please",0,,en
+49d3c68aa52d0d3a,play_store,android,2026-06-19,4.0,,you guys need to here this everything is great about the music and podcasts and many other things BUT. some things I think need to be fixed. including the ability to report things and be able to remove things from your profile. other than that this app is one of the best of any apps and is awesome!!!,0,,en
+3303ce3998410660,play_store,android,2026-06-19,5.0,,"Best music app for uncomplicated listening! The elapsed time between installation and sitting back to relaxed listening is about as short as it could be. I've had it installed for over a year now and so far it has found every album, song, artist, and genre I've searched for ......including the yodeling song by Frigid Pink! 9.5 thumbs up! Update June 19th, 2026: And after being a subscriber for many years now I can honestly say that it is the most used app that I have installed on my phone...",63,,en
+10e401104fb83c84,play_store,android,2026-06-19,1.0,,Very bad,0,,en
+9bdb5a1acc7fa426,play_store,android,2026-06-19,3.0,,"Best music app until you have to deal with support. I've reported an ""artist"" that was stealing other actual artist's names to promote his AI slops. Support sent me a canned response that was not even an answer to the topic.",36,,en
+7c4ff10bae19e2bd,play_store,android,2026-06-19,5.0,,best music app ever,0,,en
+b41f3defda3ef515,play_store,android,2026-06-19,5.0,,i can find allmost all song that i need with lyrics.. i love it,0,,en
+00a61cba87ecad1e,play_store,android,2026-06-19,5.0,,no interruption,0,,en
+d7eef832c37c951d,play_store,android,2026-06-19,5.0,,"Spotify adalah aplikasi muzik yang sangat baik dengan koleksi lagu dan podcast yang lengkap. Kualiti audio memuaskan, mudah digunakan dan cadangan lagu yang diberikan sangat menepati citarasa. Sangat sesuai untuk hiburan harian",0,,en
+764b1c70e558653f,play_store,android,2026-06-19,1.0,,your crummy app starts playing music at 3 am when the app is not open on amy of my devices. garbage.,0,,en
+aeace9007ab2f9f6,play_store,android,2026-06-19,5.0,,best song app,0,,en
+840ebab823ccb956,play_store,android,2026-06-19,5.0,,best music app till I get an iPhone,0,,en
+9155f15bc35dd61a,play_store,android,2026-06-19,1.0,,if we can't even choose a single song that we want to listen...then we can't even call it a music app...waste of my phone storage...some lowlife greedy app.,0,,en
+b4054180b5c5eb5c,play_store,android,2026-06-19,1.0,,I used to use this app all the time but then the new updates cam rolling in and made the free version terrible I just want old Spotify back!!,0,,en
+893917718ea8b436,play_store,android,2026-06-19,5.0,,it's very good,0,,en
+4bda34b91b64d18e,play_store,android,2026-06-19,1.0,,"Devs don't understand that 10x more people (including me) would subscribe monthly for 2.99. Instead they only get 1/10th the subscribers at $12.99 and lose about 60% of what they otherwise could be making. Devs also don't understand that force shuffle AND ads are too much. It drives people off the app so they get less ad revenue. If they change subscription cost to 2.99 their sub revenue doubles. If they allow no shuffle, then ad revenue also goes up substantially.",0,,en
+1c9c1e0f3dbe0df4,play_store,android,2026-06-19,5.0,,I love this app. different genres of music in a single box,0,,en
+e34b2cfe6e443ea1,play_store,android,2026-06-19,1.0,,Persistent excessive cache build up is disrupting how I can use my mobile device. Really arrogant. Give me a slider setting to set max cache size.,1,,en
+d4b15403de01ed86,play_store,android,2026-06-19,3.0,,"deleting this app just because u asking charges for songs , don't agree with this why we pay for songs we adjust with adds ... Gandit takun ghya tumcha app tumchya khoop app ahet je free mdhe songs eiku detat",0,,en
+f98a89fce2950d72,play_store,android,2026-06-19,1.0,,Stops playing randomly after a song,0,,en
+c3acd412ef80e24d,play_store,android,2026-06-19,5.0,,very amazing app for listening song,0,,en
+faffa84e028fb942,play_store,android,2026-06-19,5.0,,veri good ok bye,0,,en
+088d13f97fabc223,play_store,android,2026-06-19,5.0,,I love the app...I will always pay for music because its my therapy...i keep updating thinking the interface will look different....can we get a more interesting interface please??,0,,en
+fb644eec92bf1e12,play_store,android,2026-06-19,5.0,,I love it,0,,en
+a10d68012a2ed79b,play_store,android,2026-06-19,4.0,,fair enough for the quality and content for free the only problem I have faced is I see the ad i should get the 30 mins free but that's not the case it plays another ad before my time expires apart from that does everything fine!,1,,en
+582fab28541bfea7,play_store,android,2026-06-19,1.0,,Too much adds ! impossible to listen to more than 3 songs without having ads (often in threes) playing. Spotify isn't what it used to be,0,,en
+97321289e9130431,play_store,android,2026-06-19,4.0,,"After the latest update,MUSIC FOR YOU option is not available and the music recommendation are not matching my GENRE,Had a chat with SPOTIFY agent but not much help.Please fix this issue at the earliest...",0,,en
+5b8d8eb5c7138829,play_store,android,2026-06-19,5.0,,very good,0,,en
+fc6af795876a8314,play_store,android,2026-06-19,5.0,,very good app bro try this,0,,en
+f914de16b21a9b83,play_store,android,2026-06-19,5.0,,Is exactly as advertised.,0,,en
+335bdff06041df70,play_store,android,2026-06-19,5.0,,it just special for me,0,,en
+36a48a1299d06b3f,play_store,android,2026-06-19,1.0,,the app logged me out and its saying my username does not exist,0,,en
+5adcf4eaf8a218f4,play_store,android,2026-06-19,5.0,,"Spotify is extraordinary good, but with data dooh",0,,en
+058f37df1bf9af80,play_store,android,2026-06-19,5.0,,I love how simple and useful this app is - highly recommended!,0,,en
+7afa74aead6b3a44,play_store,android,2026-06-19,5.0,,love it,0,,en
+df2145698568aa1d,play_store,android,2026-06-19,5.0,,Worthy of appreciation for your overall music coverage.,0,,en
+771fd6b25625fc43,play_store,android,2026-06-19,5.0,,it has all types of songs and cheap price for premium,0,,en
+3acc8e87c4ca640e,play_store,android,2026-06-19,5.0,,its so good super good but to much add so good,0,,en
+7ba96159281145e1,play_store,android,2026-06-19,2.0,,"too many ads now, why did you remove the 30 minutes where you don't get any ads",0,,en
+ac44ea6293e0fa79,play_store,android,2026-06-19,5.0,,love it! it has everything I want and more,0,,en
+fb173d598040b1d4,play_store,android,2026-06-19,5.0,,.... so so so Good,0,,en
+f6d24b53045df0e3,play_store,android,2026-06-19,5.0,,so smooth,0,,en
+75cb7ed810d88989,play_store,android,2026-06-19,1.0,,more ads then music,0,,en
+7ec5738b38b3094f,play_store,android,2026-06-19,1.0,,it's have many adds,0,,en
+03e93511b1b70077,play_store,android,2026-06-19,5.0,,Best Music Application,0,,en
+37016dd75ca0b8c3,play_store,android,2026-06-19,2.0,,keeps crashing on Thursdays when release radar comes out. app just closes suddenly.,0,,en
+dea23de2ce809fd5,play_store,android,2026-06-19,1.0,,lots of ads,0,,en
+4e3e430a64b89ea5,play_store,android,2026-06-19,5.0,,peak bc idk it just has almost everysong,0,,en
+493acea04fd863b3,play_store,android,2026-06-19,1.0,,the amount of paywalls is sickening,0,,en
+2eccd057c4f75339,play_store,android,2026-06-19,1.0,,"too much getting Ads, and it's a really really Irritating Ohhh look at your reply You advice free premium offer? so we can collect otherwise every single person can not afford your premium pkgs.... now you are pressuring people to take a premium, there is no option to select a song if you want to change the songs 5-6 times then forcefully they give you pressure for take a premium how they spoiled the image day by day, the Spotify down now",0,,en
+637c7ce9e1ec6cb9,play_store,android,2026-06-19,5.0,,I couldn't live without music & Spotify makes it so simple + finds music u will like after learning what u like! A+,0,,en
+6a2c08a34d2db694,play_store,android,2026-06-19,5.0,,"Top 100% for Best Customer Service, going above and behind to satisfy their customer. making they are happy.",0,,en
+13100d526f2e11b0,play_store,android,2026-06-19,5.0,,Nice app for music,0,,en
+e1be023fe16ef52d,play_store,android,2026-06-19,5.0,,best experience,0,,en
+ef966f752a91961d,play_store,android,2026-06-19,5.0,,nice when it comes listening music,0,,en
+be436432596012a0,play_store,android,2026-06-19,5.0,,Best app ever,0,,en
+394672ea48b0315c,play_store,android,2026-06-19,5.0,,"Spotify is perfect when using premium, but I would still give you 4 stars without premium cause I get to listen to music for free if I want to and a broader song choices to choose from.",0,,en
+0415d9df9f3ea6da,play_store,android,2026-06-19,5.0,,"Songs collection and sound quality is simply awesome, I need to reduce the subscription price so it can be affordable for all.",0,,en
+784691bab2baf5d4,play_store,android,2026-06-19,1.0,,basic features are not available and need a premium so I delete this fool app and use jio savan because jio savan provide bacis features,0,,en
+c0315cfb7fd7eafd,play_store,android,2026-06-19,4.0,,soo good,0,,en
+e1f22229a59bfd16,play_store,android,2026-06-19,3.0,,one ad no problem but 2 or 3 that's too much,0,,en
+8e275a858ff5c06a,play_store,android,2026-06-19,4.0,,Not bad.,0,,en
+219e0a3f92a22835,play_store,android,2026-06-19,5.0,,good amazing beautiful,0,,en
+714a79d014db17ed,play_store,android,2026-06-19,1.0,,"kan inte söka på låtar, kan inte trycka på ""mer""-menyn för att köa eller sätta timer. Vad betalar jag för????????",1,,en
+c6571ccdc92c92b1,play_store,android,2026-06-19,4.0,,this is good and I love it,0,,en
+abdaa939c99378b2,play_store,android,2026-06-19,4.0,,it is ruling on my liked song,0,,en
+71c1992d8ead70bb,play_store,android,2026-06-19,2.0,,insanely unstable recently and far too many annoying ads trying to force you into buying premium. used to be halfway decent,0,,en
+86a174749378cb7d,play_store,android,2026-06-19,1.0,,Can't even listen to songs you like anymore more than once a day just because you don't have premium,0,,en
+baa139fc9a5d1006,play_store,android,2026-06-19,1.0,,have no idea wht this is but problems i didn't download it need all of these deleted only the original app,0,,en
+1b3219c2e8280722,play_store,android,2026-06-19,5.0,,Great features,0,,en
+63a196d5519cef67,play_store,android,2026-06-19,4.0,,this is good to play game with song i like it and everything have to play song i like it idk how much. time I said but I really like it,0,,en
+b6019d57607cdc7f,play_store,android,2026-06-19,5.0,,good apps,0,,en
+9d219bc514207949,play_store,android,2026-06-19,1.0,,ur new update on consoles like ps5 broke the spotify because i will play manually play the last song i have on my list and it will do the one before that idk if its the fact that the ps5 and phone updates are different because they are linked to the same account.,0,,en
+9767c82416399b67,play_store,android,2026-06-19,1.0,,it is very bad app kyunki ismein ab gana chalane ke liye bhi paise mang raha hai Sabse bekar app hai,0,,en
+eb6e20280968ce76,play_store,android,2026-06-19,5.0,,Great App. No annoying adds or anything. I love how I can download songs and play them when I'm offline.,0,,en
+17fbd8cc90d2ddcd,play_store,android,2026-06-19,1.0,,i am a premium user but my friends who are not paying for the premium are not even allowed to jam together and after removal of the 5 person family plan the appeal for premium is dying fast music should be an activity to bring people together and to enjoy together not dj alone atleast basic features like queuing music and selecting what you wanna play should be free along with jamming capabilities so we could share music everyone and not just the premium buyers What a let down !!!,0,,en
+2a478e721c507752,play_store,android,2026-06-19,2.0,,"I could you not, I get 2 minutes off of music cuz the ads. Theres like 4 ads every 2 songs. Like why would i watch ads when i could just listen to music and give this a proper 5 star rating?",0,,en
+d852bfe592d4aef9,play_store,android,2026-06-19,5.0,,Even though I don't pay premium I enjoy using it more than I thought I would,0,,en
+0229f82c9a707e5e,play_store,android,2026-06-19,1.0,,when music is playing nothing there isn't a notification for it nor on my lock screen to skip,0,,en
+e74cae3dbe7c60ee,play_store,android,2026-06-19,5.0,,Spotify is an excellent music application with a wide collection of songs,0,,en
+0b9943e077d85c84,play_store,android,2026-06-19,5.0,,I love Spotify great music still the best music app to have on ones phone,1,,en
+b730937a70994539,play_store,android,2026-06-19,5.0,,very reliable,0,,en
+d287344adb26fb41,play_store,android,2026-06-19,1.0,,"Spotify used to be a very good app, but now its just rubbish",0,,en
+52b0ca71d0d803df,play_store,android,2026-06-19,4.0,,"Very glitchy, disappointed Edit- I'm using it as my daily driver, but sound quality is not appealing at all. And will glad to see better equaliser implementation in this app",0,,en
+f62f34176ec469b2,play_store,android,2026-06-19,1.0,,"It's crazy how much the app degraded. You have a limited number of skips, advertisements every few minutes and now you can't even play the song you want or your songs in an order you want without premium. Better to avoid the app and use something like amazon music before your taste profile is already set.",1,,en
+e87c236159b90b01,play_store,android,2026-06-19,2.0,,keep shutting down not responding update fixed the bug issues,1,,en
+cf1f128686d7d3be,play_store,android,2026-06-19,1.0,,"Please stop telling me to update to your new widget when it periodically goes offline and I can't even do anything to open it from your new widget. I have to go to my app and open it, then what's the point of using a widget to open up Spotify? Give me back the option to use the old widget, or fix your new one.",0,,en
+445e3a9fcdb9deae,play_store,android,2026-06-19,5.0,,Very nice app,0,,en
+fac4e98c18c3a8a4,play_store,android,2026-06-19,5.0,,if I listening Spotify music I so relaxed,0,,en
+8b8b288cb51e44a0,play_store,android,2026-06-19,5.0,,"whether you agree or not..this is the most complete music streaming app in the world, now that they have the ""lossless"" audio quality it just can't get any better",0,,en
+3ef47e3e47e858f0,play_store,android,2026-06-19,5.0,,excellent app,0,,en
+dd25c75e3b00bc4d,play_store,android,2026-06-19,5.0,,Every Song Streams show will make Spotify more Powerful,0,,en
+0552b341e474e1bb,play_store,android,2026-06-19,5.0,,Thanks for making music available,0,,en
+34ec82142b5f6a73,play_store,android,2026-06-19,1.0,,it's to much ads,0,,en
+7dda1f9a1de660c1,play_store,android,2026-06-19,3.0,,stop trying to make me use the new widget! The new widget sucks.,0,,en
+34e4c4f54236c5e6,play_store,android,2026-06-19,5.0,,nice app,0,,en
+b54b790e6c9092ee,play_store,android,2026-06-19,1.0,,Wants me to get premium for everything I was listening to music and I chose a song and it said to buy premium for listen to any song anywhere remove this feature it's just gonna make more people uninstall the app,0,,en
+814a2594d5277008,play_store,android,2026-06-19,4.0,,the new widget sucks. it's bigger and removed the play button for no reason.,1,,en
+6921bff5cebe5221,play_store,android,2026-06-19,3.0,,your new widget never loads and it won't let me use the old one,0,,en
+1fb6c8e87f2e4a5b,play_store,android,2026-06-19,1.0,,"BRING BACK THE OLD WIDGET RAAAAAH! THE NEW ONE F SUCKS. The previous widget won me over with its simplicity. The new version adds features, but in practice it's clunky and less useful. My listening time fell from 1,300 to 600 minutes because I end up bypassing the widget entirely and going straight to the app. The biggest annoyance? The old widget constantly nags me to switch to the new one",0,,en
+7f99dc8b4bb8e65c,play_store,android,2026-06-19,1.0,,"so bad, to listen to a music we need to watch full 2 ads first, its super annoying. I was there to listen to music and not wasting my time on the ads, pls fix your ads problem, spoitify.",0,,en
+fea5fd9d26ff27ac,play_store,android,2026-06-19,2.0,,"Used to be good, I've had Premium for years. With the recent updates, the app crashes so much I can barely use it. All of my local files have disappeared completely and the music glitches often.",0,,en
+34c7005d0e69877b,play_store,android,2026-06-19,5.0,,excellent performance,0,,en
+3d6409a1396da242,play_store,android,2026-06-19,5.0,,it good app,0,,en
+e0402d94c1b774cd,play_store,android,2026-06-19,5.0,,Spotify has my music i create,0,,en
+453881cac3804b78,play_store,android,2026-06-19,5.0,,this is good app,0,,en
+3b5cec44881767c0,play_store,android,2026-06-19,1.0,,"I have been using Spotify for several years now and I have come to the realization that it is another victim of shitification. It was a beloved music player once, but now all it does is lag. It is incredibly buggy and doesn't work half the time. I have to restart the app over and over and over again just to get my liked songs, the songs that are downloaded to my phone, to load. I don't understand why I have to wait for downloaded songs to load if they are on my device. Pathetic",0,,en
+f3f630f400cba4b1,play_store,android,2026-06-19,1.0,,a billionaire company doesn't need to be giving 4 ads every two songs,0,,en
+14ef6f47b5042d8f,play_store,android,2026-06-19,5.0,,the best,0,,en
+d804c9821270facd,play_store,android,2026-06-19,1.0,,"Spotify has increased their prices too much. Request to bring back the price. I had switched to apple music. it provides affordable listening experience. with lossless music. but the suggestions in Spotify is good that i feel like coming back, if the cost is affordable",0,,en
+002a9cc821458235,play_store,android,2026-06-19,2.0,,"Basically everything it seems in the app at some point is blocked behind a paywall or just blocked in total like shuffle options and stuff like that, and 6 skips an hour? thats just bs. Prolly one of the only negative reviews and please FIX THE XBOX VERSION ITS SO BROKEN I DONT UNDERSTAND HOW YALL MADE IT!?!?!",1,,en
+795002c04e08ff19,play_store,android,2026-06-19,1.0,,New widget is terrible and they force it on you.,23,,en
+740a75ba2300895f,play_store,android,2026-06-19,5.0,,Spotify is dope!,0,,en
+f6b7fcb1269cc033,play_store,android,2026-06-19,5.0,,aplikasi bagus tpi iklannya banyak bgt,0,,en
+209d96612f50689e,play_store,android,2026-06-19,1.0,,Your new widget doesn't work on my phone but you keep overwriting the old one with update messages so now I use YouTube Music. Good job. edit: nothing helped. It's the king of bloat.,0,,en
+d821ffb251fe5d63,play_store,android,2026-06-19,5.0,,Listening to music on Spotify is much better than listening to music on YouTube.,0,,en
+4492b14033cf2783,play_store,android,2026-06-19,5.0,,Great still after 5 years.,0,,en
+ba4220f7f5e040e6,play_store,android,2026-06-19,5.0,,10/10 do recommend. it has every song that I like,0,,en
+213425a0ff2c0a15,play_store,android,2026-06-19,5.0,,so cool!,0,,en
+04ee88b9bc9cec8c,play_store,android,2026-06-19,1.0,,"I pay for Spotify. When it gets updated I loose liked songs. It's song types like ""rock"" or country or something like that is completely random for what it classifies as a style. I gave a very critical review of this app before but no surprise the review disappeared. I'm actually going to stop paying for this app, they don't pay the artists for the songs, increase how much I have to pay and I loose my likes and play lists so seriously why would I pay for something that doesn't deliver?",5,,en
+725022dbd4a52ec5,play_store,android,2026-06-19,1.0,,why remove the small widget? No one wants half their screen taken up,1,,en
+0e80c574d7d78daf,play_store,android,2026-06-19,1.0,,"Ever since the latest update, the app keeps crashing. I'm paying for Spotify, so if they don't fix this soon, I'll have to move on to YouTube, which is a shame, since all my music is organized on Spotify.",1,,en
+0c09e47d8990282a,play_store,android,2026-06-19,5.0,,Couldn't live without Spotify,0,,en
+2efe82e2de5711c4,play_store,android,2026-06-19,4.0,,Great music app if your willing to pay. lots of settings to make your music sound good but one thing it randomly stops playing music and loads for like 5 min or more. and Its not my internet cause I had 4 bars of cell service.,1,,en
+791bb87e3fbc06ee,play_store,android,2026-06-19,1.0,,Use to be the best but now with the dj and enhanced shuffle and other annoying things i cant trun off adds more lag as well as an increase in issues and problems with the app. So much irrelevant stuff now on the main page and I can't even find new music from artists that I follow anymore seems like a basic thing that should have stayed in the app No clue why they got rid of it but the moves that they're making make me want to move to a completely different music app rather than paying for this.,0,,en
+0b8453833e16b002,play_store,android,2026-06-19,1.0,,I'm a premium user Spotify deleting my downloaded song and I'll download again thru the still do same thing,0,,en
+feb7fc9b66aca9df,play_store,android,2026-06-19,5.0,,Nice on Premium Though,0,,en
+fc4bf52273601c4a,play_store,android,2026-06-19,3.0,,"(6.18.26) Currently they are overpricing everything they can in order to make as much money, they thing the writing is on the wall and want to make as much as they can before they bow out. In addition to outrageous pricing the app consistantly WILL NOT work despite 5G and or a stable wifi connection. Spotify used to be great but now that they are becoming more AI reliant their app is disintegrating, maybe worth a download however Im not sure if theyve fixed the amt of ads they would play.",2,,en
+cb557735bc9aa830,play_store,android,2026-06-19,1.0,,"Yall update the app and now I can't listen to music anymore? App constantly crashes when I try to play music, not even getting through a whole song before crash. why do I bother paying yall a subscription fee if I can't use the damn service",1,,en
+693d4aa537d1e207,play_store,android,2026-06-19,5.0,,this is the best up everrr,0,,en
+26e776e5be54ff0e,play_store,android,2026-06-19,5.0,,love how Spotify creates nice albums according your preference,0,,en
+73093b4816f34fb7,play_store,android,2026-06-19,1.0,,got rid of the 1x3 widget for no reason. I don't want to use half my screen for the 2x high widget. Honestly makes the whole experience so much worse. Edit: despite Spotify's response it still sucks. can't go forward or back.,0,,en
+46f479193cbab989,play_store,android,2026-06-19,1.0,,app is garbage. 1500 songs in a play list and it will only play 50. NO support. Now I try and track up and it automatically goes back and starts the previous song. All while charging you more in condescending emails. I actually hate the app,1,,en
+de7026eb17ddc38f,play_store,android,2026-06-19,2.0,,Ive used the old widget 4 years n had no issue with it I used the widget more then the app shortcut when even i would just open the app when they came out with the new widget I had no interest in switching over cause I liked how the old one 1x4 worked n the new one was a 2x4 widget cause it gave you the option to open a Playlist I had no interest in the so I didnt switch now they forced me to switch now when I use the widget to open it im brought to a Playlist not the home screen i cant stand it,1,,en
+12ec5e1de01daba5,play_store,android,2026-06-19,5.0,,I love to listen to music almost every day,0,,en
+997a997b4ebdb01d,play_store,android,2026-06-19,5.0,,"Spotify is absolutely top rate when it comes to streaming all genres of music. And as far as prices go, you can't beat the quality & pricing that you get at Spotify. I refuse to use anything but Spotify !!!!!",0,,en
+733558d379816628,play_store,android,2026-06-19,1.0,,ads n ads n adssssss thosee disgusting adss... always keep begging for subscribing to premium in them ..,0,,en
+12f23376c628fd96,play_store,android,2026-06-19,2.0,,these adds are so out of hand every 3 listens they give u 2 adds its annoying.,0,,en
+5bf27ec5886697a7,play_store,android,2026-06-19,5.0,,this is such a good app. love it,0,,en
+2fb27fda66238b14,play_store,android,2026-06-19,5.0,,really good music app,0,,en
+a985c19bbd7b3162,play_store,android,2026-06-19,1.0,,"i rather listen from youtube , too much spotify prremium ad",0,,en
+748df5b7400c4f3d,play_store,android,2026-06-19,5.0,,"I can find all the music I like, pay the subscription and you will not regret.",0,,en
+4ab0f9025e541eff,play_store,android,2026-06-19,2.0,,"I love Spotify, but since this new update it has been so buggy that I can't even listen to 10 seconds of a song before it's kicking me off explaining that there is bugs detected in Spotify so for this reason only I will give 2 stars please fix the problem and I will amend this to 5 stars thank you",0,,en
+cda4fec88a4c8471,play_store,android,2026-06-19,5.0,,bomb yo,0,,en
+30f504b9f3a3a19e,play_store,android,2026-06-19,4.0,,Meh...I accidentally removed my daughter from my family plan and haven't been able to put her back on for days.,1,,en
+5ba3bc6bf258152a,play_store,android,2026-06-19,5.0,,love love love,0,,en
+15f44070cb3ce6a7,play_store,android,2026-06-19,1.0,,seriously we cannot rewind the song what the hell is this,0,,en
+7f7e57c3916a27bd,play_store,android,2026-06-19,1.0,,"i cant play the SONGS IN ORDER. when i click on to playlists, the only thing i can choose is a short clip of the song like come on man, choosing should be a basic feature. but the thing is that this is not a prob in phones ig. This problem is in my tab I aint gonna hear any music from this app anymore. Youtube music is much better than this",1,,en
+dc9df84881b09312,play_store,android,2026-06-19,1.0,,Video playback is broken for podcasts,0,,en
+04f5718039efe2c2,play_store,android,2026-06-19,5.0,,best music app,0,,en
+71e3dba7c4ca5071,play_store,android,2026-06-19,2.0,,"Used to be my favorite app for listening to music, but not anymore. There are ads more than before, and the amount of features they've locked behind premium is absurd. Can't even listen to the same song twice consecutively without premium. Spotify is becoming a cash grab.",0,,en
+55477e6d1ae33773,play_store,android,2026-06-19,5.0,,absolutely wonderful,0,,en
+97c96d355e897440,play_store,android,2026-06-19,5.0,,Awesome way to find new music. The layout is awesome. Love it The best music app out there.,2,,en
+039a47c8cde10510,play_store,android,2026-06-19,1.0,,"This app is genuinely one of the bests for music, so why ruin it? why make it almost impossible to use? how come , that I have ads every 4 songs? and the ads? 12 seconds each and 4 or even more; in the end I'm just listening to the ads than the songs I want to hear. Just make people pay for the app already, since that's what is really going to happen if everything is really slowly becoming a premium feature.",0,,en
+4966bf9f37c47927,play_store,android,2026-06-19,1.0,,"while the Ai stuff they've implemented is bad along with fake Ai music infesting popular artists, they brought a new widget to android that was a mandatory replacement for the old one, that worked just fine, and now works about 5% of the time. you can't even access the app from it so what's the point?",0,,en
+68fa83149a1c5afe,play_store,android,2026-06-19,1.0,,"I keep trying to stop Spotify from taking money out of my account and I can't. They just won't discontinue taking money. I had to close my checking account I had for years. Don't start because once you do, you cannot get rid of them.",0,,en
+5e839b5319778145,play_store,android,2026-06-19,5.0,,real good,0,,en
+4ab8a5aa625ce84a,play_store,android,2026-06-19,4.0,,pretty good,0,,en
+55d0b6aa481a5df4,play_store,android,2026-06-19,4.0,,"Basically, STUPID! I can't switch songs in an album even if the song is no longer in that album. I HAVE TO GET PREMIUM TO DO THAT. WHY!? Although I still use this. please change this.",0,,en
+e2de0c1ec34ec2e9,play_store,android,2026-06-19,3.0,,"very happy they changed the adjustment for the speed to smaller steps possible... but the sleep timer still only these fixed few options to select from :( Spotify wrapped has sooooo much potential but is used so wrong, so little, so unlogical... so sad! having premium... then still having super loud ads in ""sleeping podcast"" thanks for nothing ... Almost falling asleep then Bämmm..",0,,en
+e1164e4849ec09d2,play_store,android,2026-06-19,1.0,,"I've had spotify for more than 10 years, and pay for premium. Why I'm I just now getting ads? Can someone please explain this!",0,,en
+7cbccd0af16b9fb5,play_store,android,2026-06-19,3.0,,"used to be a 5 but the new widget is trash. too big, offline half the time, I have to open the app to use the widget. kinda backwards folks.",0,,en
+fff1d03058ac70e2,play_store,android,2026-06-19,1.0,,app is garbage. never works correctly. canceled subscription. Definitely not worth the money.,0,,en
+d0a994f3d0ff9193,play_store,android,2026-06-19,2.0,,"Extremely disappointed, extremely money hungry. Cannot even move the music time bar and cannot even play the playlist down without having to pay for premium, YES they require premium to even disable shuffling.",1,,en
+b40fda8f39ebca29,play_store,android,2026-06-19,1.0,,Ad after ad after ad,26,,en
+88900091549db3c9,play_store,android,2026-06-19,2.0,,was quick when it was free,0,,en
+209f859248f72900,play_store,android,2026-06-19,1.0,,it always says im offline,0,,en
+c681b25947a5d4a7,play_store,android,2026-06-19,5.0,,quite good,0,,en
+26b4236f0cca2f83,play_store,android,2026-06-19,1.0,,"getting worse after every update , somehow",12,,en
+d5bc70493a24d89a,play_store,android,2026-06-19,4.0,,"Hello, Spotify is a great platform and thank you. There are only two problems. 1) The ability to skip forward and backward is a very simple and obvious thing and please add a free version. 2) Add the ability to play music from there when I click on a part of the lyrics. All of this was there before, but in the updates, it was removed from the free version and became exclusive to the premium versions!!",0,,en
+55d0135cb62d3fed,play_store,android,2026-06-19,5.0,,it's just the best,0,,en
+77e01def652bcf5a,play_store,android,2026-06-19,1.0,,terrible nows,1,,en
+9bba1d0627b0830e,play_store,android,2026-06-19,4.0,,i love the app when I relax or study but sometimes the adds are a little too much,0,,en
+435e0ecd63a0b82d,play_store,android,2026-06-19,5.0,,updated my everything atomic,0,,en
+4d87424a7c35bf21,play_store,android,2026-06-19,1.0,,"Don't use the ""lossless"" feature if you don't have unlimited data! Completely wiped out my total data of 25GB....my average monthly usage was 3-5GB before I tried ""lossless"". I usually listen OFFLINE and have been doing so as normal, but I hadn't realised that due to the nature of ""lossless"" it's constantly using data in the background to find the best version of the song you want to listen to. Probably a great feature if you are fully aware of the data implications. it's really rubbish if not.",0,,en
+dae325025fac583a,play_store,android,2026-06-19,3.0,,I like this app but why did you removed the loop option on,2,,en
+2eef75d04129c541,play_store,android,2026-06-19,3.0,,The DJ keeps playing Latin music despite me never listening to it and skipping it when it puts it on. This has been a problem for months now. I have been paying for premium for years now but still have to deal with this issue which is really frustrating.,0,,en
+0d6dd6430a4be5d3,play_store,android,2026-06-19,5.0,,I love Spotify even listend while in Mexico,0,,en
+8f0d6c7e395f245b,play_store,android,2026-06-19,2.0,,Spotify is removing useful widgets and replacing them with one that takes up too much real estate on a screen. they had a very useful 3 x 1 that was disabled.,0,,en
+fcbac98bd14e5dbc,play_store,android,2026-06-19,5.0,,the app was good experience through all the music,0,,en
+020062e9c4176681,play_store,android,2026-06-19,1.0,,The new spotify widget is terrible and barely functions.,0,,en
+8dabe5b6a06de6f8,play_store,android,2026-06-19,5.0,,been a user since day 1 and I'll never switch up!,0,,en
+abd24d74edddaa32,play_store,android,2026-06-19,5.0,,I want my music back on my phone,0,,en
+4c499bb179a1bd2e,play_store,android,2026-06-19,1.0,,they are capitalising the platform and force-ing us to buy premium...do you want to play a song?? opps you can't even choose the song you want to play....why the heck isn't there anything done about this?????..if you are able to use some other platform like youtube music which is atleast a bit better,0,,en
+ada5b9332d95817b,play_store,android,2026-06-19,5.0,,good App all around,0,,en
+cb418e81aad6c751,play_store,android,2026-06-19,2.0,,"Radio option has become so unusable because of ""promotional tool for artists"" which increases likelihood of trash songs bring recommended.",6,,en
+5a0123483a837041,play_store,android,2026-06-19,4.0,,mucho anuncio,0,,en
+004f776a02b41451,play_store,android,2026-06-19,3.0,,cause of the adds,0,,en
+dc80f481613620e5,play_store,android,2026-06-19,5.0,,BEST MUSIC,0,,en
+5e20f0188c75d1b2,play_store,android,2026-06-19,5.0,,The Spotify is the best app ever,0,,en
+709752e2fa087013,play_store,android,2026-06-19,1.0,,"The new widget is horrible. it has less useful functions in the same amount of space at the expense of bigger album art, bigger logo, and spacing on the top and bottom. The skip buttons no longer appear on the smaller 1x5 widget. Very disappointing",1,,en
+afea9479c401211f,play_store,android,2026-06-19,1.0,,Ever since they stopped giving the 30 minutes of music time without ads the free version is unbearable and unusable and it's because they want you to by the premium. i got through 2 2-3 minutes songs before I got 4 ads in a row and it's genuinely working because I can't listen to music when there is only 6-12 minutes of listening time then almost 3 minutes of ads,0,,en
+98760b8643a19707,play_store,android,2026-06-19,5.0,,I love all the song in here,0,,en
+a6b50959103a3caf,play_store,android,2026-06-19,3.0,,no optimal,0,,en
+4cd2faa41a1c762d,play_store,android,2026-06-19,4.0,,I love it but it has too many ads and when I'm listening to podcasts I usually forget what the topic of what their talking about and it makes me lost and confused,0,,en
+955412b327c6c79c,play_store,android,2026-06-19,1.0,,"It's so unfair! Other countries already have lossless audio, yet it's still unavailable here in the Philippines.",1,,en
+8a4026a79c8c5b74,play_store,android,2026-06-19,2.0,,runs well untill. Why are you telling me to use the different Spotify widget when the one I'm using works fine and the new widget keeps loading without loading.,3,,en
+2b943e4ff1972905,play_store,android,2026-06-19,1.0,,"WAY, WAY, WAY to many adds",0,,en
+027d7477c30f5389,play_store,android,2026-06-19,4.0,,Chromecast works again. so I'm pleased.,0,,en
+d78438e931f2a079,play_store,android,2026-06-19,2.0,,I am too broke to be dealing with ads after 6 minutes of ads and it not even being 30 minutes and getting more ads after only 2 songs,0,,en
+d6a19c86f70e22d3,play_store,android,2026-06-19,4.0,,I love Spotify so much but when the ads start it kinda sucks so that's why I give 4 stars and not 5,0,,en
+b9e5f8919fbce34d,play_store,android,2026-06-19,1.0,,"App has not stopped crashing since the last update. Now I can't even get songs to play for 2 seconds before the app completely crashes and I get a notification saying the app has a bug and to update when a fix is provided. I pay for premium and I can't access my playlists on mobile without the app crashing, which means I can't even access the playlists I've downloaded for offline listening. I've already cleared the cache, as instructed, but it made it worse. So frustrating.",1,,en
+520b89a4766d7a2c,play_store,android,2026-06-19,1.0,,Need a Spotify that only plays music no audiobooks no video just music.. It's great you entered the lossness age finally but you could do far better,0,,en
+7f196fb9cf7dae2a,play_store,android,2026-06-19,3.0,,how to pay for premium when the app is not allowing me to manually enter the upi id. I don't have any payment apps on my device.,0,,en
+1c1bf42ac0bc54ee,play_store,android,2026-06-19,5.0,,Constantly have to redownload music and podcast though I have been online in the app . Hope it is fixed as I do not want to have to change to another steaming service. ( I am a premium user),4,,en
+32892ad128d4db3c,play_store,android,2026-06-19,3.0,,"It's been a good app, but I feel like ""smart shuffle"" shouldn't be playing the same songs. It's starting to become like Pandora.",0,,en
+73aecacb428d1dcb,play_store,android,2026-06-19,1.0,,ruined it for anyone that's not paying I miss when subscriptions didn't exist something that would cost 20€ to get forever now costs 20€ for a month,0,,en
+ce81a5ad2202ead3,play_store,android,2026-06-19,3.0,,"edit: fixed thanks to the devs reply here. still 3 starts cuz of AI music on app // I can't use the widget bc the old one doesn't work and the new one doesn't show up for me in the widget drawer. Reinstalled the app, restarted my device and still nothing. now I have no widget.",0,,en
+33720d68d73e4346,play_store,android,2026-06-19,5.0,,it's good but be careful with premium it is too expensive and they automatically deduct and they were not giving refund I had to fight with them about why they didn't tell before deducting money and I got a refund,0,,en
+4a7271e40a20f2ba,play_store,android,2026-06-19,3.0,,the music is great the only issue I have. the ads are way too heavy. especially with pride stuff when you're straight. also that's just my opinion. about how the ads run. not a bad thing in general. for a app. I'm completely against alcohol I would rather see alcohol dude. God that's sad,0,,en
+c222e2836c1922b9,play_store,android,2026-06-19,2.0,,"usually pretty good for listening during my commute, but after the update this week the app keeps crashing and closing out after 5 minutes or so.",1,,en
+b064c7a5db9b4277,play_store,android,2026-06-19,5.0,,Best interface and awesome sound quality.,0,,en
+6a4c02e935a1ef0f,play_store,android,2026-06-19,4.0,,"Better than most but I only have experience with YouTube Music,The standard Xiaomi music app and Spotify.",0,,en
+9cb2c74a1b0c31a4,play_store,android,2026-06-19,1.0,,"Title: This app has become terrible! Review: Spotify used to be great, but now it is completely ruined. There are way too many annoying ads. Whenever I search for a specific song, it forces me to listen to a whole playlist instead of that song. On top of that, you can only skip 6 songs in 2 hours! It is incredibly frustrating just trying to listen to one single song. This app seriously needs an urgent update and major improvements, otherwise, it is completely useless. Fix this or close it down!",0,,en
+a0d77c7b5c203edf,play_store,android,2026-06-19,5.0,,I rate Spotify 5 stars because this app has been here for god knows how long and still being here for us and I just love how they added videos.,0,,en
+549b8bba32448604,play_store,android,2026-06-19,4.0,,This is a amazing and fantastic app but it has too much advertisement.,0,,en
+948732da5c3d26d1,play_store,android,2026-06-19,5.0,,good vibes,0,,en
+f307090613a13ee8,play_store,android,2026-06-19,5.0,,ads are high,0,,en
+6d4e503bc730cc1f,play_store,android,2026-06-19,2.0,,ADDS ON A PAID SUBSCRIPTION?!?!?! COULD NOT SKIP?!?!?! ONE MORE TOME AND NO MORE MONEY FOR YOU!!! Other wise I like it a lot.,0,,en
+a6e86413d29649dc,play_store,android,2026-06-19,1.0,,Why can't they fix the bug that keeps pausing playlist plays randomly? For months. Despite updates.,0,,en
+04043e405cc9f48f,play_store,android,2026-06-19,2.0,,they should upgrade their sound..I did premium still yet audiomack sound more than Spotify,0,,en
+1e1b3ef7744a9588,play_store,android,2026-06-19,3.0,,31⁄2/5 because we need more options when we are offline,0,,en
+0abab2176a69fc74,play_store,android,2026-06-19,5.0,,This is an amazing experience that I am in love with because of good music and recommendations!!,0,,en
+82932fb843dd514e,play_store,android,2026-06-19,5.0,,I like a lot of different music now :),0,,en
+590ea0bcc9941263,play_store,android,2026-06-19,1.0,,app keeps on stopping whenever i play a certain artist or two its very annoying. i pay almost 13 dollars a month this shouldn't be happening,1,,en
+ecbbe8c6ddc3508d,play_store,android,2026-06-19,1.0,,now I'm giving 1 star because full of subscription.,0,,en
+6fe57e27231e4a93,play_store,android,2026-06-19,5.0,,this is my world. love it so much :),0,,en
+c1ce7547bd340364,play_store,android,2026-06-19,3.0,,"app works fine, but the widget does not. 90% of the time is a spinning wheel loading. useless.",1,,en
+f3a0ab7e56d8691c,play_store,android,2026-06-19,5.0,,Great app for music and audiobooks,0,,en
+ee5db3b7bb969e50,play_store,android,2026-06-19,1.0,,They removed the 4x1 widget.. you have to use 5x3 as if Spotify is the only software on someone's phone.. There must be something going on with companies decisions lately... they remove options and want to force their nonsensical ways to everyone..,1,,en
+79157bedcd14d332,play_store,android,2026-06-19,1.0,,the old widget worked just fine. the new one is broken. keeps saying offline tap to refresh but does nothing. i can see the new widget fine. it doesn't work. let me have the old 4x1 back. after chatting to Eric on chat. we managed to fix the problem. and a couple days later it's broken again. just give me the old widget back. it worked. I'm not reinstalling an app weekly because your stupid decisions broke it.,1,,en
+da9602484cdaeabb,play_store,android,2026-06-19,1.0,,"keeps loading on my devices without me loading it, don't know what it does except waste space on my device",0,,en
+cbfcdc388d5b4de5,play_store,android,2026-06-19,1.0,,Land aap hae isae badiya youtube sae gana sun lo,0,,en
+a9a066793e4348f9,play_store,android,2026-06-19,1.0,,PREMIUM BRO,0,,en
+9261b205e5061e7b,play_store,android,2026-06-19,4.0,,besides all the ads this is the best music app ever I love it so much I can listen to all of my favorite artist,1,,en
+f37965dcf88bf974,play_store,android,2026-06-19,1.0,,not good experience because one song and then many add to watch ⌚,0,,en
+6fcaaf4cc8d64188,play_store,android,2026-06-19,2.0,,njs iklan 5 biji,0,,en
+4fd46f1d044f01b7,play_store,android,2026-06-19,5.0,,Great app way better than other platforms,0,,en
+37d297d4adb2ab4d,play_store,android,2026-06-19,3.0,,"at this point, I might as well use yt music because a lot of the stuff that I feel like should be part of the free version isn't like, we only get six skips per hour.And I agree, we hardly even get like any options of our own playlist, like we make the playlist.We don't want other people barging in on our own playlist. i really hope that eventually it gets better.Because it's really frustrating right now sometimes.",0,,en
+7ad844ab16970713,play_store,android,2026-06-19,1.0,,"Horrible app. Very buggy, both mobile and desktop. It is laughably badly developed, even though spotify's only product is the software... It is almost insulting. I've used it on powerful PCs and had same issues. There are too many issues to name; the most prelevant ones are: extremely slow and buggy UI, horrible cache management (went to 50gb+ very quick), randomly switching to other device, etc etc. Even the shuffle was broken for many years... A 13 year old could code a better app...",1,,en
+8f2d4740859e5044,play_store,android,2026-06-19,5.0,,Love the premium subscription benefits,0,,en
+9e37d97475e2a237,play_store,android,2026-06-18,3.0,,"I just don't like the fact that they kick me out of choosing the songs that I play at a giving time, telling me ""till tomorrow that I can play free"" anything other than that, I am okay with Spotify.",0,,en
+98cdeb9d35169751,play_store,android,2026-06-18,1.0,,Full ads after 1 song... highly not recommended,0,,en
+68e63da98538a339,play_store,android,2026-06-18,5.0,,The best music app,0,,en
+08795158f6581860,play_store,android,2026-06-18,4.0,,I love the vibe I am getting from the help,0,,en
+6c46c71a24eb4e10,play_store,android,2026-06-18,5.0,,I like this app,0,,en
+af1b55b2026cf096,play_store,android,2026-06-18,3.0,,"W app fr but, Spotify is js making everything premium now. they literally took away the crossfade feature and now you have to get premium. stop making everything premium dude",1,,en
+84a8dd11541241ca,play_store,android,2026-06-18,2.0,,"Spotify needs to really calm down a notch, 3 ads then i could listen to one song, i skip the song but i have to listen to 4 ads now, believe me every time this happens I'm closing the app and switching to SoundCloud, this is a joke",0,,en
+f927e8a6d7078e41,play_store,android,2026-06-18,2.0,,this app sucks if you dont have premium,0,,en
+457ee62716c4b6e6,play_store,android,2026-06-18,5.0,,I love it,0,,en
+a4fa64d876474643,play_store,android,2026-06-18,5.0,,its crazy,0,,en
+97e19810812fcd72,play_store,android,2026-06-18,4.0,,should try if you like listening to songs but ads are irritating,0,,en
+f4b0df4eeddd0f94,play_store,android,2026-06-18,5.0,,it's a good site for listening to music and it's really fast,0,,en
+0086da268cc708e1,play_store,android,2026-06-18,5.0,,awesome app great music,0,,en
+483d9d9ca9f6063a,play_store,android,2026-06-18,5.0,,love it,0,,en
+ee7228628657734a,play_store,android,2026-06-18,1.0,,the new widget crashes all the time. it'll just have a spinning logo and not open the app,3,,en
+cea67d9cbb216b74,play_store,android,2026-06-18,5.0,,the best,0,,en
+bcd17d88b6998dae,play_store,android,2026-06-18,1.0,,bad experience,0,,en
+d7721647f9142365,play_store,android,2026-06-18,5.0,,very nice,0,,en
+438b95d5b6191340,play_store,android,2026-06-18,1.0,,soo many ads irritating,0,,en
+11706b7622f0800d,play_store,android,2026-06-18,5.0,,nice app,0,,en
+f240d920526f457d,play_store,android,2026-06-18,5.0,,Much better,0,,en
+8e1941525771aaa1,play_store,android,2026-06-18,5.0,,great selection and never goes out even when I have bad service on my phone,0,,en
+f9021c0f90ff5382,play_store,android,2026-06-18,5.0,,the new widget for android always says its offline even though im connected to wifi. i really like the new layout but its practically useless right now.,0,,en
+a4a8e132eb7195b4,play_store,android,2026-06-18,1.0,,most unsustainable and greedy music app. deezer is a much better option and smaller company,0,,en
+2819d1134b1f57b2,play_store,android,2026-06-18,5.0,,so good must try this app,0,,en
+7244258c4997ae57,play_store,android,2026-06-18,1.0,,my music keeps cutting off when I get on snap,0,,en
+23eafc5df9fe39a1,play_store,android,2026-06-18,1.0,,"Getting sick of all of the AI slop music pushed to me on this app. The AI music is bad, and it takes away from actual real human beings who are putting music out.",0,,en
+af858f18caae6b8e,play_store,android,2026-06-18,3.0,,many ad.But thanks for recent seen music,0,,en
+279ce6ae914d111e,play_store,android,2026-06-18,5.0,,"Spotify is literally my favorite thing in existence. Their recommendations are perfection, daily mixes are to die for, and I look forward to getting my top songs list every year. Couldn't live without it",0,,en
+389a463e6df44138,play_store,android,2026-06-18,3.0,,The old widget was taken away and replaced with an objectively worse new widget that is unnecessarily big. I had to remove the widget after 2 weeks while the other widget had been up for almost 2 years. Everything else is fine. I'm writing this because I want the old widget back.,1,,en
+ff79fdd6ed83b39d,play_store,android,2026-06-18,3.0,,"this is petty but I pay for no ads, however they just re label them as announcements or notification (there's no ads between songs just pop up banners) which is annoying make it a tab or something",0,,en
+29a0544ec670fb42,play_store,android,2026-06-18,2.0,,"you guys, why there's more ads than songs? 1 song + 3 ads!!! Why?",0,,en
+e6a78550c82c50a1,play_store,android,2026-06-18,1.0,,"New Widget is just a space for Spotify to force ads on you. If there is nothing playing, rather than show the most recently played item and a play button, it redirects to something else entirely. Hate when updates are forced on users solely to reduce the functionality of an app. Ill be canceling my Family subscription.",2,,en
+53fcca02b9d0b65c,play_store,android,2026-06-18,4.0,,"most music is available, though music will sometimes be removed by artist for whatever reason. If music collection gets too large, Spotify can't handle it and will get VERY SLOW, to the point it can take entire minutes to boot up, and refuse to perform certain actions due to time-outs. but for most people it should be fine. I just have to many playlists.",7,,en
+118d00424afa7b5f,play_store,android,2026-06-18,5.0,,I use this app every single day. It's the best music app I've ever had... as long as you're a subscriber.,0,,en
+be2ea577424b43cc,play_store,android,2026-06-18,3.0,,This app is best for the songs but the worst for the ads. As they say that there will be no ads in 30 minutes after an ad but there is another ad in less than 30 minutes,0,,en
+acb0970446b276c2,play_store,android,2026-06-18,5.0,,great music,0,,en
+0f6419fa18fcdae1,play_store,android,2026-06-18,1.0,,You UI designers did not test landscape mode because buttons are hanging off side of page.,0,,en
+f9ee830b656c89eb,play_store,android,2026-06-18,1.0,,"lemot, ga bisa baca kisah orang.",0,,en
+5c2bb34075a7ffb7,play_store,android,2026-06-18,1.0,,shittty app,0,,en
+59a70263831dcd83,play_store,android,2026-06-18,5.0,,So good just wish we could still lick albums even if we don't from premium,0,,en
+f854e9bda031f672,play_store,android,2026-06-18,1.0,,"this app sucks, like aa lot. it does NOT even put the songs YOU PUT ON, on. it gives the recommended. AND you cant even play music while on another app, I recommend Youtube Music instead, it ACTUALLY puts songs on that you want and you can listen to music while playing a game or whatever without having an ad every 5 minutes...",0,,en
+a7d52fb676d2a9cb,play_store,android,2026-06-18,5.0,,Great selection,0,,en
+b3898db6f433fc73,play_store,android,2026-06-18,1.0,,"can't add to queue or change around music since the update, it's extremely frustrating, Not a vibe",0,,en
+8cbe5bd933e445a5,play_store,android,2026-06-18,3.0,,good app,0,,en
+b3342a4fcb131198,play_store,android,2026-06-18,5.0,,A very good application,0,,en
+ddc0ea56da229447,play_store,android,2026-06-18,3.0,,I hate apps that has in-app purchase but still the app is pretty cool for all forms of music,0,,en
+37e62de3a242bcc2,play_store,android,2026-06-18,2.0,,"app works well enough, it plays music. he shuffle is terrible. really the main aspect of the app is the widget and screen use. widget was good. the updated one loses the skip forward and back buttons for a larger art design of the song. terrible and stupid design. losing function for display, that is already there.",0,,en
+1d75d47bf544f9fc,play_store,android,2026-06-18,5.0,,it is really good,0,,en
+8367f6dc907aa8f8,play_store,android,2026-06-18,1.0,,"Was great until the recent update on Android, my mini player 4x1 widget doesn't work anymore and it wants me to use the new one which is double the size and it sucks , fix my player widget!!!!",1,,en
+21049e28c3e0980f,play_store,android,2026-06-18,5.0,,very.nice for gaming,0,,en
+a2d736cb1a6ef385,play_store,android,2026-06-18,5.0,,it's very good,0,,en
+6191d25ecda02314,play_store,android,2026-06-18,1.0,,worst mobile hanck,0,,en
+ebbf5677c9cdb357,play_store,android,2026-06-18,5.0,,"I honestly think this is the best app for music! Not that I have really tried anything else, so I may be biased. Edit: they added the option to select songs within a playlist! :D (Also, why am I the only one that doesn't have the same problems even the others with premium have? ;v;)",21,,en
+c4a038c69228bb25,play_store,android,2026-06-18,5.0,,been a Spotify user for over 10 years I'll never use anything else.,0,,en
+5d14bbf58c12dd8a,play_store,android,2026-06-18,2.0,,Shouldn't really need premium to choose and listen to songs.,0,,en
+12e8c6814fcdfbe6,play_store,android,2026-06-18,1.0,,thank alot,0,,en
+66ec2209dea28a9d,play_store,android,2026-06-18,2.0,,I liked it for a while until I couldn't rewind my songs back to the beginning also had to keep logging in.,0,,en
+09f1358da8bc66f4,play_store,android,2026-06-18,5.0,,the app is nice but it is slow to download,0,,en
+a122906cf810f5a1,play_store,android,2026-06-18,1.0,,too many ads,0,,en
+6360dd4cce6fa350,play_store,android,2026-06-18,1.0,,money greedy lol artist releases their music for free online ads just showiing up more often than it used to be,1,,en
+5878dca826e8da52,play_store,android,2026-06-18,1.0,,Volume is kinda soft hard to work out when I get soft wispers of hate in my ear. newest update. screen goes black after one usage and stays that way mo matter what,0,,en
+981a182faafdd47b,play_store,android,2026-06-18,5.0,,is this best app that I use in my life,0,,en
+4e5e783d74aa4b25,play_store,android,2026-06-18,1.0,,needs money,0,,en
+ed63e2a7db0a4818,play_store,android,2026-06-18,5.0,,good Vibes in Spotify,0,,en
+513aa574544f618f,play_store,android,2026-06-18,3.0,,The new widget that was forced on me is trash. Its white with a loading symbol most the time. Have to just go to the app page to open. Can I have the old one back?,0,,en
+48a6042d1f5632ae,play_store,android,2026-06-18,5.0,,amazing music app.,0,,en
+6ba29e3412a17ed3,play_store,android,2026-06-18,2.0,,The content is good but as a podcast user it is slow and buggy. Sometimes opening a playlist can take minutes. I've cleared cache / data / reinstalled / etc and it doesn't improve.,0,,en
+c7f5e3f037b1e872,play_store,android,2026-06-18,2.0,,aplikasi jeleeeeeeek...tiap mau payment paket susaaaaaaaah,0,,en
+a920d64e30ab5778,play_store,android,2026-06-18,5.0,,best music player,0,,en
+1b7a9dab021e573f,play_store,android,2026-06-18,3.0,,frequently crashed,0,,en
+c0ca54da8adda7db,play_store,android,2026-06-18,2.0,,I wonder what features they removed this time? I just keep using old versions because the new one's suck so bad.,0,,en
+60760ac3f2d6bb87,play_store,android,2026-06-18,2.0,,"Some time in the past few weeks, my version of Spotify has developed a terrible memory leak when playing back video on my Samsung S10. RAM usage continually climbs until Android kills the process, making playback beyond a few minutes so tedious.",0,,en
+ecbef10a6623d337,play_store,android,2026-06-18,1.0,,if we have not premium so we don't play songs we like,0,,en
+db63b7faa364aeea,play_store,android,2026-06-18,1.0,,"Spotify as a company shouldnt restrict the customers with the free version just for the incentive to buy premium. thats the only reason for such tactics. I will be slowly transitioning to Poweramp music. I still have to download it from a youtube converter but anything is better than supporting a selfish company that hides behind Ai customer service, poor management of in-app features and fake faces. Do better",0,,en
+4b8cc6e2bc8fdeae,play_store,android,2026-06-18,5.0,,it's a really good app,0,,en
+1147f9a496bfb16e,play_store,android,2026-06-18,1.0,,"no matter what app and phone settings I turn off, your damn app starts auto-playing when I turn my headphones on. sometimes I use noise canceling and nothing else, but despite all app and phone settings, when I turn on my BT earbuds your damn app starts playing. Samsung 24 ultra pro. I am deleting this app so you will leave me the hell alone.",1,,en
+bd011781251491f5,play_store,android,2026-06-18,1.0,,spotify is too greedy right now too many ads I prefer others,0,,en
+ec3ad0a9a0acfca8,play_store,android,2026-06-18,5.0,,easy to use,0,,en
+b8c7f72591859f1d,play_store,android,2026-06-18,5.0,,this app is good,0,,en
+3fe03d70307eab3b,play_store,android,2026-06-18,3.0,,"2017 Works a treat but takes up a lot of space. I think it can be moved to the SD card, though. 2026 update Great app, fabulous way it suggests music BUT surely they can find a more fair way to pay smaller artists?!",0,,en
+c7dc200664cffb52,play_store,android,2026-06-18,5.0,,I am a music lover. I enjoy this app more than the others out there. I always have access to new music. I can fill up all of my playlists easily. I could listen to podcasts if I wanted too. It has everything that I need. I highly recommend it to everyone.,1,,en
+2a38021f8e223fcd,play_store,android,2026-06-18,2.0,,podcast episodes that are downloaded often stop half way down. also when you keep the app open during downloading,0,,en
+a81fe4b440d7d93c,play_store,android,2026-06-18,4.0,,Good but he went premium,0,,en
+b3b73ea669a821e3,play_store,android,2026-06-18,5.0,,very good,0,,en
+187397295e73ca43,play_store,android,2026-06-18,3.0,,"The app is as you always say constantly making changes and improvements. Despite that, the functionality isn't the best yet. I am very honest in my ratings and opinions. You can always do better.",0,,en
+27f3ceac9d98ebcb,play_store,android,2026-06-18,5.0,,great experience,0,,en
+31ec26fe8e151f02,play_store,android,2026-06-18,1.0,,"""30 minutes of ad free music"" after one 1:30 long song I get 4 ads. False advertising sucks. Like, the mobile version doesn't let you even pick the order of the songs it's all shuffled all the time unless you have premium. Mobile is the only version that has that by the way. It SUCKS. Fix your app. Edit: The app somehow got worse, you need to pay to REPLAY YOUR ALBUM. I AM SO DONE WITH SPOTIFY. YouTube Music it is. Screw you spotify. I'm done.",4,,en
+0a730c4a832bb0f1,play_store,android,2026-06-18,5.0,,best app music,0,,en
+6e2c43e6fe211eca,play_store,android,2026-06-18,2.0,,can't add songs to my liked playlist. also there is no way to explore new music. homepage is full of AI made playlists and recommendations but they are all based on my history and liked songs. I want to Listen something new but there is no way unless I know a few songs myself. no novelty.,22,,en
+be232a8310611120,play_store,android,2026-06-18,1.0,,putting up premium for every other feature is not good,0,,en
+1ac1e8867ffd8ba0,play_store,android,2026-06-18,2.0,,"I've been a Spotify subscriber since 2009. It's an awesome service. The execution however is becoming increasingly poor. I don't know what your tech team is doing, more and more bugs and a laggy interface.",1,,en
+fa278cd573d1f27b,play_store,android,2026-06-18,5.0,,get premium thank me later,0,,en
+c3544e1c41be34bc,play_store,android,2026-06-18,5.0,,i like this app,0,,en
+d1b34008b6641e6e,play_store,android,2026-06-18,3.0,,"I liked it's overall app structure and design, rather than anything thing else. But listening to music with a free plan feels utterly annoying. The forced shuffle, inability to rewind playback, removing repeating same song option, and ads after every two to three songs (occasional) are not smart moves on the companies part. The current Spotify has just became a pay to listen app , its much better to switch to some open source music streaming players rather than sticking to Spotify.",2,,en
+c5f41a35788ed9b2,play_store,android,2026-06-18,1.0,,it's a very good app,0,,en
+a1ef1ffa1f615688,play_store,android,2026-06-18,4.0,,best music listener app...,0,,en
+15d96101fdc7d1d5,play_store,android,2026-06-18,1.0,,New widget is awful. Takes up more space and it's always offline. Can't tap it to load up Spotify or or anything in that state. Whoever came up with this new one should be demoted.,1,,en
+e6826e0a982a3f91,play_store,android,2026-06-18,5.0,,"​The gold standard for audio streaming. Its personalized playlists (like Discover Weekly) are brilliantly curated, and the seamless transition when switching playback from your phone to your laptop or smart speakers is flawless. The massive podcast library is a fantastic bonus.",1,,en
+a60471a0fc37251e,play_store,android,2026-06-18,3.0,,3 stars because many ada,0,,en
+e34a416504fde464,play_store,android,2026-06-18,5.0,,good but adds,0,,en
+4ef16f01bc597dff,play_store,android,2026-06-18,2.0,,"the app is very buggy. The widget rarely works, and cannot get to download page without a signal!? Why would I need a signal to open downloads that are meant to be listened to when I have no signal? this app has been a joke lately. yet they continue to push paid plans.",1,,en
+6f1377e839a3e261,play_store,android,2026-06-18,1.0,,toooo many adsss,0,,en
+d6feab50780b01ce,play_store,android,2026-06-18,2.0,,"Está bien la app pero para México no hay lossless MUCHOS meses después de anunciado. me quisieron contestar ""sí hay pero para México no"" y eso no ayuda. cuando haya lossless para usuarios premium en México, edito la reseña.",0,,en
+06d8a1cad38b1059,play_store,android,2026-06-18,4.0,,Its so expensive,0,,en
+804d0a1bee4eda7b,play_store,android,2026-06-18,5.0,,it's a very entertaining app,0,,en
+aa26c31dab34caf8,play_store,android,2026-06-18,5.0,,I like this app too much,0,,en
+64381bb6a1ae9a2f,play_store,android,2026-06-18,2.0,,it's spicy always need a update and doesn't work when I'm in the gym even with a paid subscription,1,,en
+7293ce468975a8a5,play_store,android,2026-06-18,3.0,,"Pretty much impossible to login between platforms. Samsung TV just spins when I try to switch profiles. LG TV, I never got logged in. ROKU is bad also. Phone app lost connection with 5 bars of 5g. There are too many options for me to keep Spotify. Raise the price again.",0,,en
+24a27f918eb412d1,play_store,android,2026-06-18,3.0,,"really good.. but the only problem is the ads. it's very cringe, and it becomes too long after the subscription is finished. annoying ads , at least let us play the music 24 hours instead of these limits. no wonder people in India aren't buying those subscriptions even for ₹50..",0,,en
+db9844a7f9552155,play_store,android,2026-06-18,5.0,,I like it so much!,0,,en
+c38bbca7e403c71b,play_store,android,2026-06-18,5.0,,everything is good... but for users who already bought premium are not given the same offer again... and more ads,1,,en
+aa4c9c0f6237a409,play_store,android,2026-06-18,5.0,,its AMAZING,0,,en
+791ba3dd87d10fde,play_store,android,2026-06-18,1.0,,"The app is manageable, but the fact that at a particular point, I can't choose what I want to listen to again, and then it starts playing as it likes is so infuriating. Then again, the ads are too much",0,,en
+1582dfb55896f1e2,play_store,android,2026-06-18,5.0,,It's become my favorite music app.,0,,en
+42392e570e96bb93,play_store,android,2026-06-18,5.0,,this app is so useful when you are playing game,1,,en
+677a7464b0078f2c,play_store,android,2026-06-18,2.0,,bhai subscription lelena warna bahut kharab quality,0,,en
+3bffd0a37ad61c79,play_store,android,2026-06-18,5.0,,best app no 1 music app,0,,en
+9df1a3cc90f4d6ac,play_store,android,2026-06-18,5.0,,simply 'THE BEST',0,,en
+0821f606341e8447,play_store,android,2026-06-18,1.0,,"Paying for this app to act a mess on a daily basis. Freezes all the time, I delete artists and tracks from playing, it states it won't refer them again for 30 days and the next song is the same artist and the same song. WILD! volume doesn't work when I connect to my Amazon devices and also freezes and disconnects on its own. I've contacted support 4 times and all that I was told to do, didn't work. The app developers knew they had worldwide issues at one point and they lied to me. App Removed.",1,,en
+07a08033a6d831eb,play_store,android,2026-06-18,5.0,,I love Spotify but the only thing that I don't love is ads because when I listen song the ads interpret me but although I love Spotify,0,,en
+18ff08bc413d1ac8,play_store,android,2026-06-18,5.0,,this is best,0,,en
+7a98686ed02578db,play_store,android,2026-06-18,5.0,,Great app,0,,en
+ccb4a351f04018ca,play_store,android,2026-06-18,3.0,,so many ads,0,,en
+b6078f91c15e88de,play_store,android,2026-06-18,1.0,,this app has become basically unusable. how is it so slow on start up. I have to wait MINUTES to even think about using it after it opens. I've left for an open source podcast app but am regrettably still here for music. and my first world rant has ended,1,,en
+55cb8cbe2d16df6a,play_store,android,2026-06-18,1.0,,to much ads,0,,en
+2a6fde807ecd8680,play_store,android,2026-06-18,5.0,,a good app in a song of my music songs,0,,en
+41e3ae04e52ecc77,play_store,android,2026-06-18,5.0,,I'm still locked in on it,0,,en
+7a5234657c307493,play_store,android,2026-06-18,2.0,,This app song is good but he requirement premium subscription this very bad thing i don't recommend this app try any aap,0,,en
+b76ac29d5c586257,play_store,android,2026-06-18,4.0,,to many ads without subscription,0,,en
+d322fda35ab0d099,play_store,android,2026-06-18,4.0,,love the hearing,0,,en
+63f66a3c2b962946,play_store,android,2026-06-18,1.0,,I have auto updates turned off but today when I logged in it required me to verify my age? guess its time for me to move on because this is ridiculous,0,,en
+382f0de18dd3bf48,play_store,android,2026-06-18,1.0,,"Still no explanation as to why they update so frequently. And, still yet ANOTHER update! REALLY?!? Don't you people get tired of updating so often??? I know it will not stop the app from the frequen pausing of the music, which has become extremely bothersome. I really do not know how much longer I am going to put up with this nonsense.",0,,en
+2ef89e132ef0e504,play_store,android,2026-06-18,1.0,,"pretty trash, and way too expensive for premium for just music, should be 3.99 a month.",0,,en
+e424321da04825b5,play_store,android,2026-06-18,1.0,,daily limit sucksssss,0,,en
+ba6ca3e797be1c21,play_store,android,2026-06-18,5.0,,best one yet,0,,en
+7730585134dc8196,play_store,android,2026-06-18,5.0,,The new widget is ugly.. I want to keep using the old one. Thanks.,2,,en
+43153c72395f0580,play_store,android,2026-06-18,2.0,,Bring back the minimalist 1x4 widget. The new updated 2x4 widget is too visually cluttered,0,,en
+a554992cf7bd8cb0,play_store,android,2026-06-18,5.0,,it's wonderful and I Loved it so much,0,,en
+5758fac0afd547a3,play_store,android,2026-06-18,1.0,,"This one app is a scam app , imagine subscribing for premium, I was debited till now still showing free user and I can get a refund",1,,en
+6f6bbc903378cf7a,play_store,android,2026-06-18,3.0,,the app is really good and I love it too but there are too many ads and repeating the ads again and again like 4 ads after 2 or 3 songs I feel like it's too much I hope Spotify would do something about it and thank you for this app,0,,en
+8f1468674ec762b0,play_store,android,2026-06-18,1.0,,I just paid for trial of standard premium but my account hasn't updated for premium,0,,en
+78cd33c07a0e9247,play_store,android,2026-06-18,2.0,,"awful experiences with app glitches constantly. have to force start app, clead cache constantly",0,,en
+655774461a266f3f,play_store,android,2026-06-18,1.0,,worst app made me so much angry,0,,en
+e999a5f1d08f2098,play_store,android,2026-06-18,5.0,,Discover Weekly reads my mind. Offline playlists carry me through LRT rides with bad signal. Podcasts + music in one app keeps it simple. Audio quality is consistently solid.,0,,en
+772b18c27ed77a91,play_store,android,2026-06-18,5.0,,Spotify has an amazing music library and excellent recommendations. I love discovering new songs and creating playlists. The app runs smoothly and enhances my listening experience,1,,en
+98b4fca1f5fb88db,play_store,android,2026-06-18,5.0,,"Can someobe help, pls? in the past 2 weeks i needed to reinstall the app 3 times, i try to open it, it show me tge logo and then black screen, i wait for max 2 min and nothing. (Samsung Galaxy S10 and 2 times reinstal on another Samsung)",1,,en
+c3c197fe055cdffe,play_store,android,2026-06-18,1.0,,"Greedy app, just go use yt music and get youtube premium atleast u can watch videos and listen to songs there",0,,en
+8c66508cd970a96f,play_store,android,2026-06-18,4.0,,"I like the Dj X function but I do wish there were more AI voice types to choose from, not just one fixed voice.",0,,en
+d9097ca60917bf33,play_store,android,2026-06-18,4.0,,very good experience,0,,en
+1763cde6cf1b1bdd,play_store,android,2026-06-18,3.0,,"The Widget for this has been updated, and now doesn't work. The widget had a required update so now it is an annoyingly bulky size, and no longer works. Of course, take something that worked fine and update it so it is pointless and takes up twice as much space, that sounds great.",0,,en
+303a256eb0b28726,play_store,android,2026-06-18,1.0,,all is fine but this forcing me to change to a new widget which has less key functions that the old one and takes up more space. if I want to change playlist I'll go in the app id much rather have the ability to like songs and a smaller widget as I like songs way more than change playlist. forcing things in customers is stupid,0,,en
+035f59227a20795f,play_store,android,2026-06-18,5.0,,it has good song to listen to ang good app,0,,en
+3c83e8c32ee4ef14,play_store,android,2026-06-18,5.0,,it's useful in listening to Quran,0,,en
+4135d371016403b1,play_store,android,2026-06-18,3.0,,"I figured out how to set the app to autopay, but now it hasn't loaded beyond a black screen for three days when all other music apps & apps in general work fine. Is there an outage?",2,,en
+d09ac316f28746f9,play_store,android,2026-06-18,5.0,,app is great,0,,en
+e300c1265b32d1a3,play_store,android,2026-06-18,5.0,,Great but,0,,en
+ba11c8fb355670ec,play_store,android,2026-06-18,3.0,,"Amazing app, but I still don't understand why Spotify doesn't support a floating player on Android. This basic feature would make using the app much more convenient. Please add it.",3,,en
+e2e061a1bcbb3201,play_store,android,2026-06-18,5.0,,Spotify is the best music app,0,,en
+da8b0577b20a0da9,play_store,android,2026-06-18,1.0,,greedy ahh,1,,en
+afc375b7a6200031,play_store,android,2026-06-18,3.0,,"One of the best music app you can think of ,but the developers shop create a preference for non card users to subscribe for premium membership by bank transfer .",0,,en
+10921778481c1e06,play_store,android,2026-06-18,1.0,,"you don't choose your music anymore with Spotify, and they give you AI music, much cheaper for them",1,,en
+be7b57ba0a749cda,play_store,android,2026-06-18,3.0,,"Not f2p friendly. If your pockets aren't full, your ears will be, but with ads.",1,,en
+efe2d7edcba46c85,play_store,android,2026-06-18,5.0,,Amazing app !! Literally I spend my half of the day listening songs on the app .,0,,en
+75ada93785f747bb,play_store,android,2026-06-18,4.0,,"I think is wonderful, I hope it stays like that",0,,en
+256f7aa57ea3e745,play_store,android,2026-06-18,1.0,,app doesn't work after a day or two of usage. shows blank all through doesn't show my playlist or search bar or anything just blank until it's reinstalled again. it's really annoying cause I do this after a day or 2 of no usage. please you guys should fix this.,1,,en
+d9ec64547da5f844,play_store,android,2026-06-18,3.0,,I miss the 4x1 widget - this new one isn't it.,0,,en
+d57cee96ae051325,play_store,android,2026-06-18,5.0,,SO GOOD,0,,en
+18a662a2275d620b,play_store,android,2026-06-18,3.0,,"i've been paying for premium for a few years now, and i've had some minor and mildly annoying issues here and there. this most recent one is easily the most frustrating, though. whenever i play a song, it randomly pauses every 31 seconds. i hit play to resume the song and same thing, paused after 31 seconds exactly. continuous problems like this makes me think it might just be worth it to start fresh on a new app. $13/month for dumb problems like this.",0,,en
+17a911568f769dfe,play_store,android,2026-06-18,5.0,,Versitile. Because it works good on both platforms. (android and IOS),0,,en
+da5d2da3819a3b46,play_store,android,2026-06-18,3.0,,it's alright but Everytime I open it it's just back screen?,1,,en
+286745395abce978,play_store,android,2026-06-18,5.0,,"Spotify is one of the world's leading music streaming applications, offering access to millions of songs, podcasts, and audio programs. The platform is widely used by music lovers because of its extensive library, personalized recommendations, and user-friendly design.Another advantage is Spotify's availability across multiple devices, including smartphones, tablets, computers, and smart speakers. This allows users to enjoy music wherever they are.",0,,en
+2e9e7d33492923ce,play_store,android,2026-06-18,4.0,,sometimes doesn't boot up,1,,en
+bfa33b980c91e603,play_store,android,2026-06-18,4.0,,The app is good but needs money for many things,0,,en
+34a089bd3279c9d2,play_store,android,2026-06-18,5.0,,superb experience indeed,0,,en
+7f4b5af158d14324,play_store,android,2026-06-18,5.0,,The program is respectable and one of the best music programs.,0,,en
+166bc5fd7511b867,play_store,android,2026-06-18,4.0,,it's great but it's kinda expensive,0,,en
+9d506bfba0b20119,play_store,android,2026-06-18,5.0,,I can easily find the music I want to hear.,0,,en
+6a84c66dc6e38d16,play_store,android,2026-06-18,5.0,,I love this app.it give me the exact vibes I'm looking for.,0,,en
+6a499a1cfb2f9283,play_store,android,2026-06-18,4.0,,the ads in class version is too much .. but the app is very nice,1,,en
+404bd25c2173c6c2,play_store,android,2026-06-18,1.0,,Spotify steals from artists and then hits fans over the head. literally,0,,en
+1072d76e021641e0,play_store,android,2026-06-18,1.0,,Bring back yearly subscription.,0,,en
+0511f4bddb62436e,play_store,android,2026-06-18,1.0,,"2026-06: o novo widget é péssimo, demora horrores pra carregar O premium do Spotify é apresentado com muita má fé, prometendo experiência sem anúncios, mas incluindo anúncios em podcasts (com a ""justificativa"" que o premium trata apenas de _músicas_ sem anúncios. Ora, qual o impeditivo em estruturar um premium totalmente livre de anúncios?)",0,,en
+3fad256e10072c58,play_store,android,2026-06-18,5.0,,Best music app ever!,0,,en
+b12991cf584776d6,play_store,android,2026-06-18,5.0,,exceptional service,0,,en
+3018c4c89a713def,play_store,android,2026-06-18,5.0,,mod are isn't working after I buy subscription,0,,en
+7d05c3a421fb5254,play_store,android,2026-06-18,1.0,,"bs app that plays an ad after every single song. unusable when free (literally crashes all the time) and absurdly intethical when paid. ill never pay for premium and ill never be satisfied with free, so its time to switch.",1,,en
+604981f10484a505,play_store,android,2026-06-18,5.0,,Simply Awesome,0,,en
+5b63d148332230cb,play_store,android,2026-06-18,1.0,,I cant open my account srabondj plz fix that. So I can back my account,1,,en
+67b68d11ad162cf5,play_store,android,2026-06-18,5.0,,"The best music, even better artists discovery only knock sure it's artists contracts or whatever. some dont play as loud as others @spotify any help",0,,en
+11ab1b5888389411,play_store,android,2026-06-18,3.0,,"many UI features are slow, even though my playlists are smaller than 100 songs.",0,,en
+18a764c84b67b3d3,play_store,android,2026-06-18,5.0,,I love how easy it is to find my favourite tunes and artists.,0,,en
+3d0f11fd2ffc86d7,play_store,android,2026-06-18,5.0,,Best music streaming app!,0,,en
+33690f75066a6a5f,play_store,android,2026-06-18,5.0,,I'm enjoying Spotify,0,,en
+f6e8f9239ec982df,play_store,android,2026-06-18,1.0,,"the app constantly goes dark once I open it. then I'll have to uninstall and reinstall again. I believe they're doing this intentionally to hype their download number ratings. Were it to work seamlessly, it would rate at a 3, but not anymore.",1,,en
+4575c71a4633a5a1,play_store,android,2026-06-18,5.0,,so much good for time spending,0,,en
+6386077157e218fa,play_store,android,2026-06-18,3.0,,Ads irrated,0,,en
+649026391793ab65,play_store,android,2026-06-18,1.0,,The new widget is awful,1,,en
+deedd85b2b1fb0fd,play_store,android,2026-06-18,1.0,,it is soo bad that I wanna give you ZERO! but it's not possible so I give you a ONE,1,,en
+7b8cfa4f24534733,play_store,android,2026-06-18,4.0,,a very nicest songs,0,,en
+238e6fdec3e67c00,play_store,android,2026-06-18,5.0,,it's good,0,,en
+b3351067827be77b,play_store,android,2026-06-18,4.0,,It was amazing i recommend people to use this app,0,,en
+2e21dc96fc2706f1,play_store,android,2026-06-18,2.0,,do gaane ke baad bheek maangna zaruri hai? why can't I skip after 6 songs? why do i listen to music as per you? at least the basic things should not be restricted to get premium. what about the people who don't have money for premium? absolute ruining of music flow.,0,,en
+1ec2c7abd1e19608,play_store,android,2026-06-18,5.0,,Best music app ever.,0,,en
+d2284f2268c28740,play_store,android,2026-06-18,4.0,,the sound's are good but adds are coming to often disturbing me in my music,0,,en
+6cb8d9396fdba663,play_store,android,2026-06-18,5.0,,Very good and all you want are found here..,0,,en
+c5e1e3efa19f3df1,play_store,android,2026-06-18,5.0,,so good,0,,en
+241329b703b31716,play_store,android,2026-06-18,1.0,,The new widget on Android is twice as big and twice as slow as the old one,0,,en
+12bf0b57cda7e729,play_store,android,2026-06-18,5.0,,Who doesn't agree with Spotify app? It has its own bugs but not too much. I am fine with my app on my new phone - Samsung. The app is working fine.,0,,en
+4a5b2c4ffbc8561f,play_store,android,2026-06-18,4.0,,"recently Spotify won't adjust playback speed...i have reset, looked for updates and cleared cache and it's still an issue",0,,en
+f6a2071cb0666ae4,play_store,android,2026-06-18,5.0,,"i so much love this app,, very great app",0,,en
+c2753efdd59bba19,play_store,android,2026-06-18,5.0,,best app for songs . only to play one of your favourite song and all songs of your like will play by itself.,0,,en
+ca4ab641ea2088ab,play_store,android,2026-06-18,5.0,,Good mix,0,,en
+380b2c20e5965527,play_store,android,2026-06-18,1.0,,"I used it for years and without premium, and it was always fine with just 1-2 ads here and there. these last couple years I get 2-3 songs and then 3-5 ads. I absolutely refuse to spend more time on ads then music. I understand its to pressure me into a subscription but thats straight unnecessary. I will go to YouTube music and have 1 skipable ad for every song before I return to Spotify. Or straight pay for the album I like. Im absolutely done.",0,,en
+32c05df94d7e5b46,play_store,android,2026-06-18,5.0,,It is the best music app but constant premium ads.,0,,en
+7442ce8daf428434,play_store,android,2026-06-18,4.0,,Everything are so so so nice but ad problem so much after a song ad play song ad overall better app,0,,en
+250a1f4b8e9a0207,play_store,android,2026-06-18,2.0,,You have lots of music collections that's great but youtube has better taste in finding the music that we love. if you make it possible to connect both apps it will be great.,0,,en
+2783f7a0f6028af8,play_store,android,2026-06-18,2.0,,"what's going on? This past month I keep having to uninstall and reinstall just to use the app, it's been o.e a daily activity now... Is it my phone or Spotify?!",1,,en
+b0c272f2bb31d03f,play_store,android,2026-06-18,5.0,,Easy to use. Great suggestions.,0,,en
+4c742cd63e9d69b7,play_store,android,2026-06-18,4.0,,"I love the app, as always. However, in my Xiaomi 17 Pro Max the new widget doesn't appear, I can't find it in the widget list (I do find the old widget) and the notifications that you put in the app to add the widget also didn't work (I even tried to find it in settings, both in Spotify app and cellphone). And now you disabled the old widget. And Google Maps navigation integration is also not working. And offline (bluetooth only) jams would be amazing for car trips.",0,,en
+51144d38d824dd4b,play_store,android,2026-06-18,5.0,,"Been using this for YEARS, it's pretty epic, cool and awesome but what a shame I don't have premium lol",0,,en
+c5ab1b659e98a619,play_store,android,2026-06-18,5.0,,l like AAP,0,,en
+22f423bf314d7960,play_store,android,2026-06-18,2.0,,best player in Pakistan,0,,en
+4891cfbc6c2b5384,play_store,android,2026-06-18,2.0,,when I lisen hanuman ji song single song after no one song available continue to hanuman bhajan amend it then we will give 5 star.,0,,en
+9fa7d93233ab5deb,play_store,android,2026-06-18,4.0,,"App works great, the Roku app has some problems opening cleanly and consistently which is a shame for how much I use it",0,,en
+ccd5e9c5ffcb2b01,play_store,android,2026-06-18,1.0,,I can't hear any songs because it's premium but just for a month that's half my salary what is this app YT music is better. UNINSTALLED,1,,en
+f220a046c91aa2a7,play_store,android,2026-06-18,1.0,,"We non premium listener hear plenty of ads, minutes at most, it's disruptive, repetetive, and annoying. Atleast make the selection of music unlimited it's the least you can do. If i discover other app that offers free music with free selection of music, I will replace this app with no hesitation. And of course you don't care even though you make a lot of money just us listening to the ads you make us listen",0,,en
+7c4ff429cc6b8697,play_store,android,2026-06-18,2.0,,"Got too expensive, used to be my daily driver but now I'm using apple music. Same service at a cheaper cost.",0,,en
+1cb736a70ccf5d5f,play_store,android,2026-06-18,5.0,,lt's wonderful,0,,en
+ab41be815be5a32f,play_store,android,2026-06-18,1.0,,will steal ur money and not give u ur subscription,0,,en
+776647174890459b,play_store,android,2026-06-18,1.0,,not f2p friendly,0,,en
+465f09d5fde3874d,play_store,android,2026-06-18,3.0,,they really want you to get premium and if not ur gonna be at a big disadvantage like not having songs play in ur playlist and insert they do similar songs,0,,en
+ad0061809efa5dfb,play_store,android,2026-06-18,5.0,,Nice platform,0,,en
+da3cea9259940b82,play_store,android,2026-06-18,1.0,,stop forcing new widgit,1,,en
+a57a2409bf631ef2,play_store,android,2026-06-18,4.0,,it's cool love the songs you added Spotify,0,,en
+a94a89cb091f753d,play_store,android,2026-06-18,1.0,,this app does not deserve one star,0,,en
+30335b095224a4bd,play_store,android,2026-06-18,1.0,,I don't know what to say.. but If these ads come back again and again.. I will start downloading songs from other platforms,1,,en
+1cf5c621b38e057b,play_store,android,2026-06-18,1.0,,Removed perfectly functional widget for one that doesn't work whatsoever. Don't waste your money.,1,,en
+883aa2fe410b8032,play_store,android,2026-06-18,5.0,,i lik I like it,0,,en
+1ee71242ad68af17,play_store,android,2026-06-18,1.0,,supra assom,0,,en
+ab7c32936e5b98b2,play_store,android,2026-06-18,5.0,,Best Music App,0,,en
+96b6c028f4b1e90a,play_store,android,2026-06-18,5.0,,Best app of music,0,,en
+040cf4dd909cfb9d,play_store,android,2026-06-18,1.0,,it doesn't allow me to choose songs without premium and i cant skip a song this has to be fixed pls and thank u,0,,en
+33302618aab2df2e,play_store,android,2026-06-18,5.0,,one of the best music platform,0,,en
+de484d5e8d53a425,play_store,android,2026-06-18,5.0,,top music algorithm,0,,en
+8eca6068209685d1,play_store,android,2026-06-18,1.0,,"it's add is gross,specially if u trying to move from playlist to another",0,,en
+8407d576743e4851,play_store,android,2026-06-18,1.0,,The new update has ruined everything!,0,,en
+fe5d020cb9256020,play_store,android,2026-06-18,5.0,,Good Songs of famous Singers,0,,en
+6333c93e1808e802,play_store,android,2026-06-18,5.0,,They are the best,0,,en
+93fd6ad46e620e6b,play_store,android,2026-06-18,5.0,,good job,0,,en
+71e3ea1b53cb7d41,play_store,android,2026-06-18,3.0,,all is ok except spotline vijay . not only me my friend also hate him,0,,en
+7fdcea3f0b2fecd4,play_store,android,2026-06-18,5.0,,Best of the best,0,,en
+a212a38f4c7c5700,play_store,android,2026-06-18,5.0,,best music app. only problem is ad,0,,en
+a65b70a9d5646eaf,play_store,android,2026-06-18,5.0,,"It makes me calm everytime when I opened this app, sometimes I listened to it before sleep",0,,en
+3d23280de7379903,play_store,android,2026-06-18,4.0,,good just chose what song next,0,,en
+fee1900288fa73fb,play_store,android,2026-06-18,5.0,,so nice,0,,en
+7ec4a0cf3305b93f,play_store,android,2026-06-18,3.0,,here are too many adand they ruin my mood and the vibe,0,,en
+f3788489e74510d9,play_store,android,2026-06-18,5.0,,"I absolutely love Spotify, the offline Playlist that is made out of videos I haven't downloaded but can still listen to is absolutely the BEST!",0,,en
+6b922fc1c98ddc1c,play_store,android,2026-06-18,4.0,,it is a good music app but it have ads without premium but now the ad's system is improved and we do not get ads for 30 minutes,0,,en
+9930df0d7e3e26b7,play_store,android,2026-06-18,5.0,,good app man,1,,en
+2afb2f5a5783f9c6,play_store,android,2026-06-18,3.0,,Too much add,0,,en
+2ff62692616c7880,play_store,android,2026-06-18,1.0,,i get 3 ads per song thats insane,0,,en
+cc9401ecacda096f,play_store,android,2026-06-18,2.0,,"too many advertisements, it's playing song after 4 advertisements, youtube is better than this.",0,,en
+69be3c559b1b42ea,play_store,android,2026-06-18,1.0,,"Switching soon. Getting rid of ""liked songs"" playlist was the breaking point. They keep changing to the ""improved"" UI, give people a choice as to what UI they want to use. Forcing me to use the glitchy garbage 4x2 widget instead of the 4x1 that worked fine was the last straw. Done paying for this garbage.",11,,en
+103b36eb5d2b0fc2,play_store,android,2026-06-18,2.0,,too many ads and for every action premium needed,0,,en
+c3e39978bdac6dc1,play_store,android,2026-06-18,5.0,,love easy to find what you're looking for,0,,en
+bfe51bb138a5b103,reddit,web,2026-02-28,,Discover Weekly stale,Anyone else get the same Discover Weekly vibe for months?,31,https://example.com/reddit/0,en
+8361b35d51cb6e93,reddit,web,2026-04-29,,Repeat listening,I realized 80 percent of my hours are Liked Songs only.,160,https://example.com/reddit/1,en
+6ac27c955fdeebf1,reddit,web,2026-05-02,,Recommendation rant,Radio for an artist plays same 15 tracks on loop.,42,https://example.com/reddit/2,en
+3272cd89976991c4,reddit,web,2026-04-03,,Hard to explore,I never find new artists unless friends send links.,153,https://example.com/reddit/3,en
+06fb12f8f5fc863c,reddit,web,2026-03-29,,Discover Weekly miss,Discover Weekly keeps recommending the same indie artists.,98,https://example.com/reddit/4,en
+dab7c85892f583e6,reddit,web,2026-04-10,,Same playlist loop,I only listen to my 2019 playlist on repeat.,197,https://example.com/reddit/5,en
+7ef434e734c363e8,reddit,web,2026-04-22,,Too many liked songs,I have 2000 liked songs and cannot browse them.,20,https://example.com/reddit/6,en
+ae6c419d6c91b9a2,reddit,web,2026-05-03,,Home cluttered,"Home screen is podcasts and shortcuts, hard to find new music.",50,https://example.com/reddit/7,en
+8c886e773d1b64ad,reddit,web,2026-03-21,,Want friend picks,Wish I could see what close friends discover weekly.,90,https://example.com/reddit/8,en
+bbbe026c32be96f2,reddit,web,2026-05-29,,Podcasts dominate,Home feed pushes podcasts when I want music discovery.,168,https://example.com/reddit/9,en
+65bb91e2c20f8e41,reddit,web,2026-04-15,,Ads break flow,Free tier ads make me skip back to old playlists.,77,https://example.com/reddit/10,en
+5c481d3d1ddf0dd8,reddit,web,2026-02-20,,Want friend picks,Wish I could see what close friends discover weekly.,182,https://example.com/reddit/11,en
+9b43fd024456974e,reddit,web,2026-03-08,,Hard to explore,I never find new artists unless friends send links.,156,https://example.com/reddit/12,en
+281564d08fa579c4,reddit,web,2026-02-23,,Search useless,Search only shows artists I already know.,129,https://example.com/reddit/13,en
+dbd40c10928de380,reddit,web,2026-04-15,,Search useless,Search only shows artists I already know.,138,https://example.com/reddit/14,en
+d8c433ecf646d44c,reddit,web,2026-05-14,,Hard to explore,I never find new artists unless friends send links.,36,https://example.com/reddit/15,en
+a84cfb175653a65a,reddit,web,2026-04-09,,Podcasts dominate,Home feed pushes podcasts when I want music discovery.,95,https://example.com/reddit/16,en
+47e728350fbafd2f,reddit,web,2026-05-22,,Comfort listening,"After work I always play familiar songs, never explore.",133,https://example.com/reddit/17,en
+e3d148b4282e0a8f,reddit,web,2026-04-18,,Want friend picks,Wish I could see what close friends discover weekly.,20,https://example.com/reddit/18,en
+bb02f1ea3d498451,reddit,web,2026-05-10,,Podcasts dominate,Home feed pushes podcasts when I want music discovery.,74,https://example.com/reddit/19,en
+c6cb08f8809d2266,reddit,web,2026-04-02,,Discover Weekly miss,Discover Weekly keeps recommending the same indie artists.,35,https://example.com/reddit/20,en
+cc91ade103d6e45d,reddit,web,2026-03-14,,Home cluttered,"Home screen is podcasts and shortcuts, hard to find new music.",198,https://example.com/reddit/21,en
+cfde9e1baa72008a,reddit,web,2026-06-05,,Navigation,"Too many tabs, I give up looking for something fresh.",155,https://example.com/reddit/22,en
+dbe1f5d64b0a327a,reddit,web,2026-05-25,,Daily mix repeat,Daily Mix plays the same 20 songs every day.,197,https://example.com/reddit/23,en
+972841ed0be46344,reddit,web,2026-02-27,,Hard to explore,I never find new artists unless friends send links.,129,https://example.com/reddit/24,en
+452735fce14bdfd7,reddit,web,2026-04-22,,Podcasts dominate,Home feed pushes podcasts when I want music discovery.,119,https://example.com/reddit/25,en
+3783f95ea54f7ac5,reddit,web,2026-06-08,,Saved music graveyard,My library is huge but I play the same 10 tracks.,181,https://example.com/reddit/26,en
+ccd354a2e51ffd10,reddit,web,2026-04-10,,Home cluttered,"Home screen is podcasts and shortcuts, hard to find new music.",46,https://example.com/reddit/27,en
+21f2494ff01c7e03,reddit,web,2026-04-02,,Blend dead,Blend with friends never updates with new artists.,31,https://example.com/reddit/28,en
+ffe492ca8f4d0cd4,reddit,web,2026-06-19,,Same playlist loop,I only listen to my 2019 playlist on repeat.,76,https://example.com/reddit/29,en
+1fa96649b632ee86,reddit,web,2026-06-12,,Comfort listening,"After work I always play familiar songs, never explore.",6,https://example.com/reddit/30,en
+da460ee5851f9fe6,reddit,web,2026-03-17,,Comfort listening,"After work I always play familiar songs, never explore.",179,https://example.com/reddit/31,en
+58011f55f0421620,reddit,web,2026-02-25,,Saved music graveyard,My library is huge but I play the same 10 tracks.,146,https://example.com/reddit/32,en
+f1cc7e5099f99b09,reddit,web,2026-03-20,,Daily mix repeat,Daily Mix plays the same 20 songs every day.,36,https://example.com/reddit/33,en
+b00bb1d67302e3bb,reddit,web,2026-02-23,,Blend dead,Blend with friends never updates with new artists.,62,https://example.com/reddit/34,en
+696a9c86d5e38dda,reddit,web,2026-05-07,,Podcasts dominate,Home feed pushes podcasts when I want music discovery.,174,https://example.com/reddit/35,en
+bce5c1c40efa4010,reddit,web,2026-05-09,,Podcasts dominate,Home feed pushes podcasts when I want music discovery.,74,https://example.com/reddit/36,en
+7996f632aaf6681e,reddit,web,2026-03-11,,Skip limit,Hit skip limit and just replay old favorites.,29,https://example.com/reddit/37,en
+4a1dfade9372c1d3,reddit,web,2026-03-19,,Home cluttered,"Home screen is podcasts and shortcuts, hard to find new music.",52,https://example.com/reddit/38,en
+1867d4056a123ce1,reddit,web,2026-04-29,,Blend dead,Blend with friends never updates with new artists.,52,https://example.com/reddit/39,en
+09593e706b4ed02b,social,web,2026-03-26,,Podcasts dominate,Home feed pushes podcasts when I want music discovery.,175,https://example.com/social/0,en
+d013ec4a5f53e421,social,web,2026-05-20,,Search useless,Search only shows artists I already know.,106,https://example.com/social/1,en
+f18a91408b1ee8b9,social,web,2026-03-15,,Skip limit,Hit skip limit and just replay old favorites.,89,https://example.com/social/2,en
+489b92cf8b698bfb,social,web,2026-06-09,,Same playlist loop,I only listen to my 2019 playlist on repeat.,195,https://example.com/social/3,en
+1b299fb8abcb9b1e,social,web,2026-06-01,,Search useless,Search only shows artists I already know.,152,https://example.com/social/4,en
+183899728a879b63,social,web,2026-05-21,,Same playlist loop,I only listen to my 2019 playlist on repeat.,45,https://example.com/social/5,en
+55e74f206d0426b6,social,web,2026-06-11,,Skip limit,Hit skip limit and just replay old favorites.,133,https://example.com/social/6,en
+aba918259e5e5cdf,social,web,2026-04-12,,Skip limit,Hit skip limit and just replay old favorites.,51,https://example.com/social/7,en
+f95e4834b9cb20d4,social,web,2026-04-22,,Same playlist loop,I only listen to my 2019 playlist on repeat.,178,https://example.com/social/8,en
+48b8a758bcccc69e,social,web,2026-04-06,,Home cluttered,"Home screen is podcasts and shortcuts, hard to find new music.",76,https://example.com/social/9,en
+2781d7c4b5a34b12,social,web,2026-02-25,,Podcasts dominate,Home feed pushes podcasts when I want music discovery.,90,https://example.com/social/10,en
+9dd37c18caa0967d,social,web,2026-06-05,,Comfort listening,"After work I always play familiar songs, never explore.",8,https://example.com/social/11,en
+7ebdd2a1bda39c01,social,web,2026-03-17,,Same playlist loop,I only listen to my 2019 playlist on repeat.,138,https://example.com/social/12,en
+dc6b707d42911406,social,web,2026-06-09,,Daily mix repeat,Daily Mix plays the same 20 songs every day.,195,https://example.com/social/13,en
+15580103c6d34192,social,web,2026-04-13,,Ads break flow,Free tier ads make me skip back to old playlists.,119,https://example.com/social/14,en

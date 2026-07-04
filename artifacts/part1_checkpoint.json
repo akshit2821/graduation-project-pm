@@ -1,0 +1,42 @@
+{
+  "status": "pass",
+  "part0": "pass",
+  "part1": {
+    "status": "pass",
+    "timestamp": "2026-07-04T13:00:34.071674+00:00",
+    "feedback_count": 629,
+    "source_types": [
+      "forum",
+      "play_store",
+      "reddit",
+      "social"
+    ],
+    "classification": {
+      "classifier": "keyword_fallback",
+      "model": null,
+      "env_file": "E:\\PM Fellowship\\Project-cursor\\Milestone 1\\.env",
+      "groq_batches": 0,
+      "groq_errors": [],
+      "llm_review_count": 400,
+      "keyword_review_count": 229
+    },
+    "top3_theme_ids": [
+      "discovery_friction",
+      "pricing_ads",
+      "repeat_listening"
+    ],
+    "coverage_pct": 100.0,
+    "failures": []
+  },
+  "artifacts": [
+    "data/feedback_normalized.csv",
+    "artifacts/ingest_report.json",
+    "artifacts/theme_map.json",
+    "artifacts/source_breakdown.json",
+    "artifacts/research_answers.json",
+    "artifacts/insight_report.md",
+    "artifacts/quote_bank.json",
+    "artifacts/feedback_theme_assignments.csv"
+  ],
+  "next": "Deploy part-1-workflow/app.py to Streamlit Cloud"
+}

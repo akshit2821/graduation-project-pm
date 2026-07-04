@@ -1,0 +1,26 @@
+source,platform,date,rating,title,text,upvotes,url
+forum,web,2026-04-11,,Algorithm,How do I reset recommendations? Stuck in a loop.,69,https://example.com/forum/0
+forum,web,2026-05-11,,New music,Cannot find new releases that match my taste.,13,https://example.com/forum/1
+forum,web,2026-03-24,,Want friend picks,Wish I could see what close friends discover weekly.,74,https://example.com/forum/2
+forum,web,2026-04-29,,Blend dead,Blend with friends never updates with new artists.,189,https://example.com/forum/3
+forum,web,2026-06-10,,Daily mix repeat,Daily Mix plays the same 20 songs every day.,101,https://example.com/forum/4
+forum,web,2026-05-08,,Too many liked songs,I have 2000 liked songs and cannot browse them.,143,https://example.com/forum/5
+forum,web,2026-05-03,,Daily mix repeat,Daily Mix plays the same 20 songs every day.,35,https://example.com/forum/6
+forum,web,2026-05-05,,Daily mix repeat,Daily Mix plays the same 20 songs every day.,18,https://example.com/forum/7
+forum,web,2026-05-15,,Skip limit,Hit skip limit and just replay old favorites.,137,https://example.com/forum/8
+forum,web,2026-04-30,,Discover Weekly miss,Discover Weekly keeps recommending the same indie artists.,144,https://example.com/forum/9
+forum,web,2026-05-04,,Want friend picks,Wish I could see what close friends discover weekly.,96,https://example.com/forum/10
+forum,web,2026-04-08,,Saved music graveyard,My library is huge but I play the same 10 tracks.,109,https://example.com/forum/11
+forum,web,2026-04-24,,Comfort listening,"After work I always play familiar songs, never explore.",189,https://example.com/forum/12
+forum,web,2026-04-27,,Comfort listening,"After work I always play familiar songs, never explore.",178,https://example.com/forum/13
+forum,web,2026-03-11,,Comfort listening,"After work I always play familiar songs, never explore.",137,https://example.com/forum/14
+forum,web,2026-05-25,,Home cluttered,"Home screen is podcasts and shortcuts, hard to find new music.",124,https://example.com/forum/15
+forum,web,2026-04-13,,Search useless,Search only shows artists I already know.,127,https://example.com/forum/16
+forum,web,2026-06-11,,Discover Weekly miss,Discover Weekly keeps recommending the same indie artists.,192,https://example.com/forum/17
+forum,web,2026-03-25,,Daily mix repeat,Daily Mix plays the same 20 songs every day.,10,https://example.com/forum/18
+forum,web,2026-03-06,,Ads break flow,Free tier ads make me skip back to old playlists.,173,https://example.com/forum/19
+forum,web,2026-03-03,,Too many liked songs,I have 2000 liked songs and cannot browse them.,136,https://example.com/forum/20
+forum,web,2026-04-07,,Want friend picks,Wish I could see what close friends discover weekly.,130,https://example.com/forum/21
+forum,web,2026-04-12,,Too many liked songs,I have 2000 liked songs and cannot browse them.,100,https://example.com/forum/22
+forum,web,2026-03-01,,Saved music graveyard,My library is huge but I play the same 10 tracks.,41,https://example.com/forum/23
+forum,web,2026-06-02,,Same playlist loop,I only listen to my 2019 playlist on repeat.,147,https://example.com/forum/24

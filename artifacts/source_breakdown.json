@@ -1,0 +1,21 @@
+{
+  "total": 629,
+  "sources": {
+    "play_store": {
+      "count": 549,
+      "pct": 87.3
+    },
+    "reddit": {
+      "count": 40,
+      "pct": 6.4
+    },
+    "forum": {
+      "count": 25,
+      "pct": 4.0
+    },
+    "social": {
+      "count": 15,
+      "pct": 2.4
+    }
+  }
+}

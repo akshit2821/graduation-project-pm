@@ -1,0 +1,66 @@
+{
+  "mvp_name": "LoopBreak",
+  "mvp_tagline": "AI Discovery Coach for transition moments",
+  "problem_id": "transition_moment_coach",
+  "problem_summary": "Segment defaults to comfort playlists at low-energy transition moments due to decision fatigue—not because reco feeds are unavailable.",
+  "segment": {
+    "description": "Indian urban listeners aged 22–35 who listen 5+ hours/week, get ≥60% of listening from saved playlists or liked songs, and rarely engage with Discover Weekly meaningfully",
+    "geo": "India",
+    "age_range": "22-35",
+    "trigger_moment": "post_work_commute",
+    "example_context": "Friday 6pm, tired after work, only playing a 2022 indie playlist"
+  },
+  "hypothesis": "An explainable AI coach that names why the user is looping and offers three research-grounded discovery paths will increase intentional discovery sessions compared to opening Home or Discover Weekly cold.",
+  "user_flow": [
+    "User describes transition moment or picks a persona matching the segment",
+    "LoopBreak returns: (1) why you're looping — one sentence, (2) three discovery paths — strategies not tracks, (3) one recommended next action with rationale",
+    "User picks a path; optional follow-up refines mood or constraint"
+  ],
+  "success_metrics": [
+    {
+      "id": "discovery_session_rate",
+      "label": "Discovery session rate",
+      "mvp_proxy": "User selects and confirms a LoopBreak path"
+    },
+    {
+      "id": "new_artist_listen_rate",
+      "label": "New artist listen rate",
+      "mvp_proxy": "User chooses a path tagged new_artist or forgotten_save"
+    },
+    {
+      "id": "d7_explorer_retention",
+      "label": "D7 retention on explorers",
+      "mvp_proxy": "Return visit to LoopBreak within 7 days"
+    }
+  ],
+  "mvp_features_in": [
+    "Transition-moment context input (text + persona presets)",
+    "Explainable loop diagnosis grounded in Part 1–2 research",
+    "Three discovery paths: mood shift, social/friend, forgotten library",
+    "Groq LLM with injected insight_report + interview synthesis",
+    "Streamlit UI deployed to production URL"
+  ],
+  "mvp_features_out": [
+    "Spotify Web API / OAuth",
+    "Real playback or playlist creation",
+    "Collaborative filtering or embedding search",
+    "Full RAG / vector database"
+  ],
+  "ai_advantage": {
+    "vs_traditional_reco": "Collaborative filtering reinforces familiar clusters; LoopBreak adds intent, moment context, and explainability before any feed",
+    "unlocks": [
+      "Natural language moment description",
+      "Reasoning aloud grounded in research themes",
+      "Strategy-level paths instead of black-box track lists"
+    ]
+  },
+  "grounding_artifacts": [
+    "artifacts/insight_report.md",
+    "artifacts/research_answers.json",
+    "artifacts/quote_bank.json",
+    "part-2-research/interview_synthesis.md",
+    "part-3-problem/problem_statement.md"
+  ],
+  "part4_entrypoint": "part-4-mvp/app.py",
+  "deck_slide_hint": "LoopBreak explains why you're stuck at transition moments—then offers 3 discovery paths"
+}

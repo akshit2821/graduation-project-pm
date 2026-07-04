@@ -1,0 +1,199 @@
+{
+  "blockers": [],
+  "warnings": [
+    [
+      "edge-cases COL2",
+      "App Store reviews",
+      "WARN",
+      "not collected"
+    ],
+    [
+      "edge-cases R5",
+      "Real interviews (not demo)",
+      "WARN",
+      "demo notes \u2014 disclose in deck"
+    ],
+    [
+      "ROADMAP DEL",
+      "Public workflow URL",
+      "WARN",
+      "REPLACE_AFTER_DEPLOY"
+    ],
+    [
+      "ROADMAP DEL",
+      "Public MVP URL",
+      "WARN",
+      "REPLACE_AFTER_DEPLOY"
+    ]
+  ],
+  "rows": [
+    [
+      "Gates",
+      "run_check_parts_0_4.py",
+      "PASS",
+      "exit 0"
+    ],
+    [
+      "Gates",
+      "run_submission_check.py",
+      "PASS",
+      "exit 0"
+    ],
+    [
+      "Gates",
+      "part-1/smoke_test_local.py",
+      "PASS",
+      "exit 0"
+    ],
+    [
+      "Architecture",
+      "artifacts/theme_map.json",
+      "PASS",
+      "present"
+    ],
+    [
+      "Architecture",
+      "artifacts/insight_report.md",
+      "PASS",
+      "present"
+    ],
+    [
+      "Architecture",
+      "artifacts/research_answers.json",
+      "PASS",
+      "present"
+    ],
+    [
+      "Architecture",
+      "artifacts/quote_bank.json",
+      "PASS",
+      "present"
+    ],
+    [
+      "Architecture",
+      "part-2-research/interview_synthesis.md",
+      "PASS",
+      "present"
+    ],
+    [
+      "Architecture",
+      "part-3-problem/problem_statement.md",
+      "PASS",
+      "present"
+    ],
+    [
+      "Architecture",
+      "part-3-problem/mvp_scope.json",
+      "PASS",
+      "present"
+    ],
+    [
+      "Architecture",
+      "part-1-workflow/app.py",
+      "PASS",
+      "present"
+    ],
+    [
+      "Architecture",
+      "part-4-mvp/app.py",
+      "PASS",
+      "present"
+    ],
+    [
+      "Architecture",
+      "part-4-mvp/coach.py",
+      "PASS",
+      "present"
+    ],
+    [
+      "Architecture",
+      "Home.py",
+      "PASS",
+      "present"
+    ],
+    [
+      "Architecture",
+      "deck/NL Spotify.pdf",
+      "PASS",
+      "present"
+    ],
+    [
+      "problem.md P1",
+      "6 research questions",
+      "PASS",
+      "6"
+    ],
+    [
+      "problem.md P1",
+      "Multi-source corpus",
+      "PASS",
+      "4 types: ['play_store', 'reddit', 'forum', 'social']"
+    ],
+    [
+      "edge-cases COL2",
+      "App Store reviews",
+      "WARN",
+      "not collected"
+    ],
+    [
+      "problem.md P2",
+      "5-6 interviews",
+      "PASS",
+      "n=6"
+    ],
+    [
+      "edge-cases R5",
+      "Real interviews (not demo)",
+      "WARN",
+      "demo notes \u2014 disclose in deck"
+    ],
+    [
+      "problem.md P3",
+      "Root cause + segment + business",
+      "PASS",
+      "sections present"
+    ],
+    [
+      "problem.md P4",
+      "LoopBreak 3 paths + action",
+      "PASS",
+      "coach OK"
+    ],
+    [
+      "ROADMAP DEL",
+      "Public workflow URL",
+      "WARN",
+      "REPLACE_AFTER_DEPLOY"
+    ],
+    [
+      "ROADMAP DEL",
+      "Public MVP URL",
+      "WARN",
+      "REPLACE_AFTER_DEPLOY"
+    ],
+    [
+      "ROADMAP DEL",
+      "NL Spotify.pdf",
+      "PASS",
+      "7.6 KB"
+    ],
+    [
+      "ROADMAP DEL",
+      "Deck 10 slides",
+      "PASS",
+      "10 pages"
+    ],
+    [
+      "edge-cases S1",
+      "Spotify product lock",
+      "PASS",
+      "Spotify"
+    ],
+    [
+      "edge-cases S4",
+      "Segment defined",
+      "PASS",
+      "target_segment in config"
+    ]
+  ]
+}
