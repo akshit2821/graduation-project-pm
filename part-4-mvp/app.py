@@ -85,7 +85,7 @@ def main() -> None:
             placeholder="e.g. Friday 6pm, tired, only playing my old indie playlist…",
         )
 
-    use_groq = st.checkbox("Use Groq AI (requires API key)", value=False)
+    use_groq = st.checkbox("Use Groq AI (requires API key)", value=True, help="AI-powered responses using Groq. Uncheck to use cached sample responses.")
     if st.button("Break the loop", type="primary", use_container_width=True):
         if not context.strip() and not persona:
             st.warning("Describe your listening moment or pick a persona.")
