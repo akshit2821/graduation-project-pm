@@ -257,26 +257,20 @@ def build() -> Path:
         # Add visual diagram for problem definition slide (slide 7, index 6)
         if idx == 6:
             y_start = pdf.get_y() + 5
-            # Draw problem cycle diagram
-            pdf.set_draw_color(*HIGHLIGHT)
-            pdf.set_line_width(1.5)
-            # Circle representing the loop
-            center_x = pdf.margin + 80
-            center_y = y_start + 30
-            radius = 25
-            pdf.circle(center_x, center_y, radius)
-            # Labels around the circle
-            pdf.set_xy(center_x - 20, center_y - radius - 8)
-            pdf.set_text_color(*HIGHLIGHT)
-            pdf.set_font("Helvetica", "B", 11)
-            pdf.cell(40, 5, "Transition Moment", align="C")
-            pdf.set_xy(center_x - 20, center_y + radius + 3)
-            pdf.cell(40, 5, "Decision Fatigue", align="C")
-            pdf.set_xy(center_x - radius - 25, center_y - 3)
-            pdf.cell(20, 5, "Low Energy", align="C")
-            pdf.set_xy(center_x + radius + 5, center_y - 3)
-            pdf.cell(20, 5, "Comfort Loop", align="C")
-            pdf.ln(65)
+            # Draw simple problem flow diagram
+            box_w = 50
+            box_h = 10
+            gap = 8
+            start_x = pdf.margin + 10
+
+            # Three boxes showing the problem flow
+            steps = ["Transition Moment", "Decision Fatigue", "Comfort Loop"]
+            for i, step in enumerate(steps):
+                x = start_x + i * (box_w + gap)
+                pdf.draw_box(x, y_start, box_w, box_h, step, HIGHLIGHT)
+                if i < len(steps) - 1:
+                    pdf.draw_arrow(x + box_w, y_start + box_h/2, x + box_w + gap, y_start + box_h/2)
+            pdf.ln(18)
 
         # Add visual diagram for MVP slide (slide 9, index 8)
         if idx == 8:
