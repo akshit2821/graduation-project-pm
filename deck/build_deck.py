@@ -230,12 +230,70 @@ def build() -> Path:
         ),
     ]
 
-    for title, lines in slides:
+    for idx, (title, lines) in enumerate(slides):
         pdf.add_page()
         pdf.slide_bg()
         pdf.set_xy(pdf.margin, pdf.margin)
         pdf.slide_title(title)
         pdf.ln(2)
+
+        # Add visual flowchart for workflow slide (slide 4, index 3)
+        if idx == 3:
+            # Draw 5-step workflow flowchart
+            y_start = pdf.get_y() + 5
+            box_w = 45
+            box_h = 12
+            gap = 10
+            start_x = pdf.margin + 10
+
+            steps = ["Collect", "Normalize", "AI Classify", "Insights", "Deploy"]
+            for i, step in enumerate(steps):
+                x = start_x + i * (box_w + gap)
+                pdf.draw_box(x, y_start, box_w, box_h, step)
+                if i < len(steps) - 1:
+                    pdf.draw_arrow(x + box_w, y_start + box_h/2, x + box_w + gap, y_start + box_h/2)
+            pdf.ln(20)
+
+        # Add visual diagram for problem definition slide (slide 7, index 6)
+        if idx == 6:
+            y_start = pdf.get_y() + 5
+            # Draw problem cycle diagram
+            pdf.set_draw_color(*HIGHLIGHT)
+            pdf.set_line_width(1.5)
+            # Circle representing the loop
+            center_x = pdf.margin + 80
+            center_y = y_start + 30
+            radius = 25
+            pdf.circle(center_x, center_y, radius)
+            # Labels around the circle
+            pdf.set_xy(center_x - 20, center_y - radius - 8)
+            pdf.set_text_color(*HIGHLIGHT)
+            pdf.set_font("Helvetica", "B", 11)
+            pdf.cell(40, 5, "Transition Moment", align="C")
+            pdf.set_xy(center_x - 20, center_y + radius + 3)
+            pdf.cell(40, 5, "Decision Fatigue", align="C")
+            pdf.set_xy(center_x - radius - 25, center_y - 3)
+            pdf.cell(20, 5, "Low Energy", align="C")
+            pdf.set_xy(center_x + radius + 5, center_y - 3)
+            pdf.cell(20, 5, "Comfort Loop", align="C")
+            pdf.ln(65)
+
+        # Add visual diagram for MVP slide (slide 9, index 8)
+        if idx == 8:
+            y_start = pdf.get_y() + 5
+            # Draw 3-box diagram for discovery paths
+            box_w = 60
+            box_h = 15
+            gap = 15
+            start_x = pdf.margin + 20
+
+            paths = ["Mood Shift", "Social Discovery", "Forgotten Saves"]
+            colors = [ACCENT, HIGHLIGHT, (100, 100, 200)]
+            for i, (path, color) in enumerate(zip(paths, colors)):
+                x = start_x + i * (box_w + gap)
+                pdf.draw_box(x, y_start, box_w, box_h, path, color)
+            pdf.ln(25)
+
         for line in lines:
             if line.startswith("Quote:"):
                 pdf.accent_line(line)
