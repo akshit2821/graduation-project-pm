@@ -10,9 +10,15 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 PROJECT = Path(__file__).resolve().parent
-DECK = PROJECT / "deck" / "NL Spotify.pdf"
 SUB = PROJECT / "config" / "submission.json"
 MAX_PDF_MB = 40
+
+# Read deck filename from config
+deck_filename = "Spotify.pdf"
+if SUB.is_file():
+    sub_data = json.loads(SUB.read_text(encoding="utf-8"))
+    deck_filename = sub_data.get("deck_filename", "Spotify.pdf")
+DECK = PROJECT / "deck" / deck_filename
 
 
 def main() -> int:
@@ -24,7 +30,7 @@ def main() -> int:
         failures.append("Parts 0-4 pipeline check failed")
 
     if not DECK.is_file():
-        failures.append("Missing deck/NL Spotify.pdf — run: python deck/build_deck.py")
+        failures.append(f"Missing deck/{deck_filename} — run: python deck/build_deck.py")
     else:
         mb = DECK.stat().st_size / (1024 * 1024)
         if mb > MAX_PDF_MB:
@@ -69,7 +75,7 @@ def main() -> int:
             "Update URLs in config/submission.json after deploy",
             "Re-run python deck/build_deck.py with live URLs",
             "Test links in incognito",
-            "Export/upload NL Spotify.pdf",
+            f"Export/upload {deck_filename}",
             "Submit before 6 Jul 2026 3:59 PM IST",
         ],
     }
